@@ -1,0 +1,588 @@
+PROPERTY TYPE,ADDRESS,CITY,STATE,ZIPCODE,PRICE,BEDS,BATHS,LOCATION,SQFT,LOTSIZE,YEARBUILT,DAYSONMARKET,PPSQFT,HOA,LATITUDE,LONGITUDE
+Single Family Residential,6010 SW Orleans St,Seattle,WA,98116,1395000,3,2.5,Alki,2840,5750,2006,1,491,,47.57115,-122.4101686
+Single Family Residential,11210 81st Ave S,Seattle,WA,98178,450000,3,1.75,Bryn Mawr,1700,6955,1956,12,265,,47.5023434,-122.2306363
+Single Family Residential,9516 Densmore Ave N,Seattle,WA,98103,975000,3,2.75,Licton Springs,2220,5000,1924,14,439,,47.6983269,-122.337338
+Single Family Residential,3257 25th Ave W,Seattle,WA,98199,1049000,3,2.5,Magnolia,2360,4320,1990,20,444,,47.6501654,-122.3889038
+Single Family Residential,4616 47th Ave S,Seattle,WA,98118,820000,3,2.5,Seward Park,1710,3590,1988,23,480,,47.5611832,-122.2742249
+Single Family Residential,2640 NW 57th St Unit B,Seattle,WA,98107,785000,2,2.25,Ballard,1460,1425,2013,26,538,,47.670417,-122.391949
+Single Family Residential,614 N 65th St,Seattle,WA,98103,899000,3,1,Phinney Ridge,2040,7440,1916,27,441,,47.676319,-122.350705
+Single Family Residential,3810 22nd Ave SW,Seattle,WA,98106,844000,3,2,Pigeon Point,1910,1597,2017,1,442,,47.569677,-122.360741
+Single Family Residential,4218 W Dravus St,Seattle,WA,98199,1195000,3,1.75,Magnolia,2130,4350,1938,1,561,,47.6488413,-122.4116743
+Single Family Residential,9829 42nd Ave SW,Seattle,WA,98136,649997,3,2.5,Arbor Heights,1750,8060,1934,1,371,,47.5147831,-122.3863005
+Single Family Residential,8120 9th Ave SW,Seattle,WA,98106,549950,3,1,Highland Park,1120,7320,1922,1,491,,47.5294622,-122.3464816
+Single Family Residential,6705 Flora Ave S,Seattle,WA,98108,690000,3,1,Georgetown,1350,4000,1903,1,511,,47.5420768,-122.3209303
+Single Family Residential,3022 42nd Ave W,Seattle,WA,98199,1188000,3,2,Magnolia,2367,5800,1941,1,502,,47.6475091,-122.4104666
+Single Family Residential,621 NW 44th St,Seattle,WA,98107,825000,3,1,Fremont,2830,3376,1911,1,292,,47.6606258,-122.3650032
+Single Family Residential,627 NW 44th St,Seattle,WA,98107,700000,2,1,Fremont,1820,3376,1916,1,385,,47.6606304,-122.3651889
+Single Family Residential,1910 SW 112th St,Seattle,WA,98146,425000,3,1,Shorewood,1040,8010,1955,1,409,,47.502981,-122.3596578
+Single Family Residential,12218 North Park Ave N,Seattle,WA,98133,425000,2,1,Bitter Lake,700,6290,1925,1,607,,47.7183319,-122.3492277
+Single Family Residential,4883 24th Ave S,Seattle,WA,98108,568000,2,1,Beacon Hill,940,4800,1920,1,604,,47.5587611,-122.3031164
+Single Family Residential,7712 10th Ave NW,Seattle,WA,98117,874950,3,1.75,Whittier,2087,5000,1928,1,419,,47.6855068,-122.369026
+Single Family Residential,2801 NE 140th St,Seattle,WA,98125,500000,3,2,Olympic Hills,1010,7776,1977,1,495,,47.7299005,-122.2975742
+Single Family Residential,9336 Waters Ave S,Seattle,WA,98118,600000,3,1.75,Rainier Beach,1940,4324,1927,1,309,,47.5182521,-122.2597974
+Single Family Residential,7959 Seward Park Ave S,Seattle,WA,98118,599000,2,1,Seward Park,2520,4840,1922,1,238,,47.5299753,-122.2666734
+Single Family Residential,625 NW 83rd St,Seattle,WA,98117,849950,3,2.5,Crown Hill,1600,2880,1987,1,531,,47.6889172,-122.3645036
+Single Family Residential,3745 SW 98th St,Seattle,WA,98126,565000,3,1.5,Arbor Heights,1250,5224,1996,1,452,,47.5153866,-122.3813118
+Single Family Residential,3501 E Terrace St,Seattle,WA,98122,1798000,3,2.5,Leschi,3190,11300,1989,1,564,,47.6055616,-122.2881778
+Single Family Residential,123 NW 41st,Seattle,WA,98107,875000,3,1.75,Fremont,2480,6909,1907,1,353,,47.6561931,-122.358249
+Single Family Residential,6721 10th Ave NW,Seattle,WA,98117,1050000,3,2.75,Ballard,2060,5350,1965,1,510,,47.6784146,-122.3700299
+Single Family Residential,7350 22nd NW,Seattle,WA,98117,635000,3,1.75,Loyal Heights,1510,5100,1910,1,421,,47.6828292,-122.3839975
+Single Family Residential,8107 8th Ave NE,Seattle,WA,98115,764950,3,1.75,Maple Leaf,1460,3060,1908,1,524,,47.6877528,-122.3205547
+Single Family Residential,4209 SW Seattle St,Seattle,WA,98116,739000,3,1.5,North Admiral,1960,2840,1929,1,377,,47.5890967,-122.3854783
+Single Family Residential,1230 NE 89th St,Seattle,WA,98115,829900,3,2.5,Maple Leaf,2580,6380,1927,1,322,,47.6932705,-122.3135135
+Single Family Residential,12516 Dayton Ave N,Seattle,WA,98133,449999,2,1,Broadview,1980,7650,1926,1,227,,47.7201175,-122.3525465
+Single Family Residential,411 32nd Ave E,Seattle,WA,98112,955000,3,2,Madison Valley,1500,2800,1909,2,637,,47.6228653,-122.2913983
+Single Family Residential,2431 55th Ave SW,Seattle,WA,98116,825000,3,2.25,Alki,1560,2265,2012,2,529,,47.5812794,-122.4029162
+Single Family Residential,3120 S Norman St,Seattle,WA,98144,930000,2,1.75,Leschi,1410,6480,1946,2,660,,47.5936548,-122.2918814
+Single Family Residential,13705 Greenwood Ave N,Seattle,WA,98133,625000,3,2.5,Broadview,1750,3597,2005,2,357,,47.728943,-122.355973
+Single Family Residential,3810 Linden Ave N,Seattle,WA,98103,1049000,3,2.25,Fremont,1770,1714,2012,2,593,,47.6531641,-122.3483311
+Single Family Residential,10419 41st Ave SW,Seattle,WA,98146,369950,1,1,Arbor Heights,690,7980,1934,2,536,,47.5094055,-122.3846171
+Single Family Residential,10819 Forest Ave S,Seattle,WA,98178,675000,3,1.5,Lakeridge,1860,4940,1953,4,363,,47.5058204,-122.2353332
+Single Family Residential,8656 13th Ave SW,Seattle,WA,98106,535000,3,1,Highland Park,1440,5950,1942,4,372,,47.5248449,-122.3515633
+Single Family Residential,611 29th Ave E,Seattle,WA,98112,700000,3,2,Madison Valley,2130,3938,1908,4,329,,47.62447,-122.295804
+Single Family Residential,10028 Ashworth Ave N,Seattle,WA,98133,949950,3,5.5,Northgate,3500,10364,1994,5,271,,47.7022083,-122.3386244
+Single Family Residential,3208 49th Ave SW,Seattle,WA,98116,750000,3,2,Genesee,1680,6440,1952,5,446,,47.5753958,-122.3943818
+Single Family Residential,7742 31st Ave SW,Seattle,WA,98126,540000,3,1,West Seattle,1110,5520,1942,5,486,,47.5324559,-122.372273
+Single Family Residential,116 37th Ave E,Seattle,WA,98112,2650000,3,3.5,Denny Blaine,3859,5217,1947,5,687,,47.6189351,-122.2861851
+Single Family Residential,4407 Cascadia Ave S,Seattle,WA,98118,694950,3,2,Columbia City,1300,4000,1952,5,535,,47.5638473,-122.2831525
+Single Family Residential,2106 47th Ave SW,Seattle,WA,98116,849950,3,1.5,Admiral,2220,2808,1930,5,383,,47.5851722,-122.3914826
+Single Family Residential,5514 32nd Ave S,Seattle,WA,98118,515000,3,1,Beacon Hill,930,4400,1948,5,554,,47.5520293,-122.2912605
+Single Family Residential,9712 Lindsay Pl S,Seattle,WA,98118,669990,3,3,Upper Rainier Beach,1850,2709,2020,5,362,69,47.5166791,-122.2646264
+Single Family Residential,1514 N 107th St,Seattle,WA,98133,600000,2,1,Northgate,1210,6330,1946,5,496,,47.7070384,-122.3385783
+Single Family Residential,1824 1st Ave W,Seattle,WA,98119,1329000,3,1.75,Queen Anne,2230,4800,1911,5,596,,47.6355575,-122.3580468
+Single Family Residential,7726 48th Ave S,Seattle,WA,98118,550000,3,2,Seattle,1830,5358,1958,5,301,,47.5328169,-122.2724184
+Single Family Residential,8841 Ashworth Ave N,Seattle,WA,98103,670000,2,2,Green Lake,900,3844,1926,5,744,,47.6936908,-122.3394902
+Single Family Residential,3109 W Elmore St,Seattle,WA,98199,985000,3,2.25,Magnolia,1920,4400,1977,5,513,,47.6574969,-122.3974335
+Single Family Residential,13059 20th Ave NE,Seattle,WA,98125,560000,3,1.25,Olympic Hills,1141,9754,1971,5,491,,47.724704,-122.3076354
+Single Family Residential,10050 39th Ave SW,Seattle,WA,98146,600000,3,2,Arbor Heights,1610,7320,1942,5,373,,47.512318,-122.3813845
+Single Family Residential,548 N 68th St,Seattle,WA,98103,724900,2,1,Green Lake,1220,3290,1925,5,594,,47.678895,-122.3504288
+Single Family Residential,640 NW 75th St,Seattle,WA,98117,640000,2,1,Whittier,1070,5150,1912,5,598,,47.6834535,-122.3650926
+Single Family Residential,3548 S Morgan St,Seattle,WA,98118,725000,3,,Beacon Hill,2080,18717,1927,5,349,,47.5445774,-122.2866877
+Single Family Residential,10249 41st Ave SW,Seattle,WA,98146,499000,3,1,West Seattle,1110,5320,1915,5,450,,47.5107347,-122.3847733
+Single Family Residential,1204 E Lynn St,Seattle,WA,98102,1000000,3,2.5,North Capitol Hill,3400,4500,1910,5,294,,47.6397373,-122.3166767
+Single Family Residential,4918 9th Ave NW,Seattle,WA,98107,600000,1,1,Ballard,810,2126,1910,5,741,,47.6649108,-122.3684343
+Single Family Residential,102 NE 60th St,Seattle,WA,98115,997500,3,1.75,Green Lake,1972,2496,1925,5,506,,47.6724373,-122.3279733
+Single Family Residential,2826 NE 137th St,Seattle,WA,98125,518000,2,1,Olympic Hills,1660,9380,1925,5,312,,47.728234,-122.2967031
+Single Family Residential,411 W Howe St,Seattle,WA,98119,1288000,3,2,Queen Anne,2040,2400,1917,6,631,,47.6357725,-122.3628984
+Single Family Residential,2115 NW 96th St,Seattle,WA,98117,1250000,2,1.75,North Beach,2056,5525,1942,6,608,6,47.6987426,-122.3837422
+Single Family Residential,9748 Densmore Ave N,Seattle,WA,98103,950000,3,2.25,Licton Springs,1780,2500,2012,6,534,,47.7009514,-122.3373448
+Single Family Residential,4102 42nd Ave SW,Seattle,WA,98116,860000,3,1.75,Alaska Junction,1620,4125,1940,6,531,,47.5663018,-122.3851702
+Single Family Residential,8547 S 123rd Pl,Seattle,WA,98178,549999,3,2,Bryn Mawr,1430,6760,1951,6,385,,47.4923002,-122.2236078
+Single Family Residential,11327 Sunnyside Ave N,Seattle,WA,98133,574950,3,1.5,Haller Lake,1250,6695,1953,6,460,,47.7116899,-122.3303234
+Single Family Residential,8033 Burke Ave N,Seattle,WA,98103,729000,2,1.5,Green Lake,1660,4536,1926,6,439,,47.6879886,-122.3358514
+Single Family Residential,2525 NE 136th St,Seattle,WA,98125,550000,3,2,Olympic Hills,1389,13340,1946,6,396,,47.7272691,-122.300465
+Single Family Residential,2105 S Washington St,Seattle,WA,98144,638000,2,1.5,Central Area,1400,1332,2005,6,456,,47.600547,-122.304781
+Single Family Residential,9708 Marine View Dr SW,Seattle,WA,98136,1250000,3,2.25,Fauntleroy,2610,19275,1941,6,479,,47.5166593,-122.3897434
+Single Family Residential,14319 Wallingford Ave N,Seattle,WA,98133,540000,3,1,Haller Lake,1100,5200,1947,6,491,,47.7328963,-122.3373448
+Single Family Residential,5017 50th Ave SW,Seattle,WA,98136,550000,2,1,Seaview,1220,5120,1921,6,451,,47.5569324,-122.3966448
+Single Family Residential,7733 29th Ave NE,Seattle,WA,98115,1200000,3,2.5,Wedgwood,2850,7015,1959,6,421,,47.6858826,-122.296931
+Single Family Residential,627 35th Ave,Seattle,WA,98122,1495000,3,2.5,Madrona,2920,3000,2000,6,512,,47.6075653,-122.288723
+Single Family Residential,8613 B 23rd Ave NE,Seattle,WA,98115,879999,3,2.5,Lake City,1834,1877,2020,6,480,,47.691647,-122.3041728
+Single Family Residential,7311 Jones Ave NW,Seattle,WA,98117,775000,3,1.75,Loyal Heights,1620,2550,1961,6,478,,47.6817082,-122.3867329
+Single Family Residential,360 NW 46th St,Seattle,WA,98107,1000000,3,2.5,Ballard,1670,3880,1947,6,599,,47.6624438,-122.3634436
+Single Family Residential,2575 10th Ave W,Seattle,WA,98119,1490000,3,2.25,Queen Anne,2400,3771,1915,7,621,,47.6427059,-122.37047
+Single Family Residential,4107 19th Ave SW,Seattle,WA,98106,535000,2,1,Pigeon Point,780,5000,1916,7,686,,47.5663508,-122.3582926
+Single Family Residential,8115 Fremont Ave N,Seattle,WA,98103,839950,3,2,Greenwood,2020,3675,1902,7,416,,47.6881301,-122.3502279
+Single Family Residential,11264 57th Ave S,Seattle,WA,98178,449950,3,2,Skyway,940,8000,1953,8,479,,47.4983171,-122.2608061
+Single Family Residential,151 Euclid Ave,Seattle,WA,98122,1675000,3,2.5,Leschi,2850,7130,1980,8,588,,47.6029578,-122.28895
+Single Family Residential,5738 S Juneau Ter S,Seattle,WA,98118,525000,2,1,Hillman City,610,7500,1952,8,861,,47.5501119,-122.2855358
+Single Family Residential,3127 34th Ave S,Seattle,WA,98144,835000,3,1,Mt Baker,2340,4000,1921,8,357,,47.5759188,-122.2901799
+Single Family Residential,2617 28th Ave W,Seattle,WA,98199,1350000,3,2.25,Magnolia,2460,5500,1932,9,549,,47.6438077,-122.3932529
+Single Family Residential,13230 Frazier Pl NW,Seattle,WA,98177,1295000,3,2.5,Broadview,2708,13452,1969,9,478,,47.7260222,-122.3670729
+Single Family Residential,5628 30th Ave SW,Seattle,WA,98126,1249000,3,2.5,West Seattle,2490,8625,2011,11,502,,47.5511052,-122.3703983
+Single Family Residential,10826 55th Ave S,Seattle,WA,98178,385000,2,1,Upper Rainier Beach,605,2280,1942,11,636,,47.5028766,-122.2645353
+Single Family Residential,3363 W Commodore Way,Seattle,WA,98199,1997000,3,3.75,Magnolia,3740,6995,1973,11,534,,47.6651388,-122.4012119
+Single Family Residential,4148 25th Ave SW Unit A,Seattle,WA,98106,605000,3,1.5,Delridge,1400,1273,2014,11,432,,47.5651223,-122.3640803
+Single Family Residential,3103 16th Ave S,Seattle,WA,98144,580000,3,1,Beacon Hill,1150,3591,1921,12,504,,47.5757955,-122.3123095
+Single Family Residential,4617 S Austin St,Seattle,WA,98144,350000,2,1,Seattle,700,6640,1918,12,500,,47.5344669,-122.2742705
+Single Family Residential,315 W Garfield St,Seattle,WA,98119,975000,3,1,Queen Anne,1290,2400,1905,12,756,,47.6333559,-122.3617719
+Single Family Residential,211 Hayes St,Seattle,WA,98109,1375000,3,2,Queen Anne,1972,4450,1911,12,697,,47.6338627,-122.3526987
+Single Family Residential,8315 24th Ave NW,Seattle,WA,98117,550000,3,2,Ballard,1860,4332,1942,12,296,,47.6894596,-122.3878907
+Single Family Residential,2624 NE 100th St,Seattle,WA,98125,595000,3,1,Meadowbrook,1040,7037,1951,12,572,,47.7013612,-122.298667
+Single Family Residential,4609 Evanston Ave N,Seattle,WA,98103,699950,2,1.75,Fremont,820,1925,1908,12,854,,47.6624958,-122.351694
+Single Family Residential,9540 3rd Ave NW,Seattle,WA,98117,599000,3,2,Greenwood,1256,5900,1907,12,477,,47.6989862,-122.3604034
+Single Family Residential,519 NW 70th St,Seattle,WA,98117,675000,2,1.5,Ballard,987,650,2020,12,684,24,47.6794361,-122.3632833
+Single Family Residential,10535 Evanston Ave N,Seattle,WA,98133,699950,3,1.75,Broadview,1640,4579,1916,12,427,,47.7060925,-122.3517499
+Single Family Residential,14345 Evanston Ave N,Seattle,WA,98133,569000,3,1.75,Seattle,1400,9120,1949,12,406,,47.7336618,-122.3520976
+Single Family Residential,10111 Beacon Ave S,Seattle,WA,98178,599950,3,2.25,Rainier Beach,2090,11730,1963,12,287,,47.5098786,-122.2720079
+Single Family Residential,3944 S Eddy St,Seattle,WA,98118,539000,3,1,Seattle,1880,5000,1910,12,287,,47.5454553,-122.2814316
+Single Family Residential,1527 N 130th St,Seattle,WA,98133,439000,1,1,Haller Lake,670,6000,1942,12,655,,47.723021,-122.3383347
+Single Family Residential,2303 29th Ave S,Seattle,WA,98144,1179950,3,2.5,Mt Baker,2740,6000,1929,13,431,,47.5826155,-122.2954236
+Single Family Residential,5620 49th Ave SW,Seattle,WA,98136,1050000,3,3,Seaview,2390,7072,2007,13,439,,47.5514653,-122.3947206
+Single Family Residential,1634 Lake Washington Blvd,Seattle,WA,98122,15700000,3,4.5,Denny Blaine,7170,52613,1999,13,2190,,47.6162618,-122.2809411
+Single Family Residential,3516 SW Charlestown St,Seattle,WA,98126,750000,3,1.75,Belvidere,1700,3750,1928,13,441,,47.5703008,-122.3768433
+Single Family Residential,7529 32nd Ave SW,Seattle,WA,98126,1099000,3,3,West Seattle,2860,4920,2014,13,384,,47.5347249,-122.3742347
+Single Family Residential,5911 39th Ave SW,Seattle,WA,98136,724990,3,1.75,Fairmount,1684,4800,1942,13,431,,47.5498569,-122.3820731
+Single Family Residential,4403 40th Ave SW,Seattle,WA,98116,875000,3,3.25,Alaska Junction,2310,3075,2005,13,379,,47.5644873,-122.383193
+Single Family Residential,8052 16th Ave NW,Seattle,WA,98117,675000,2,1,Loyal Heights,1055,4249,1942,13,640,,47.6883877,-122.377597
+Single Family Residential,5515 28th Ave NE,Seattle,WA,98105,785000,3,2.25,Bryant,1370,4059,1916,14,573,,47.6690848,-122.2975151
+Single Family Residential,9811 8th Ave NE,Seattle,WA,98115,1248000,3,3.5,Maple Leaf,2852,3291,2016,14,438,,47.700694,-122.3206743
+Single Family Residential,9244 35th Ave SW Unit B,Seattle,WA,98126,439900,2,1.5,Arbor Heights,1030,1200,2019,14,427,,47.5195827,-122.3763651
+Single Family Residential,4875 20th Ave S,Seattle,WA,98108,695000,3,1.75,Beacon Hill,2120,8100,1941,15,328,,47.5585059,-122.3071785
+Single Family Residential,412 34th Ave,Seattle,WA,98122,2600000,3,3.25,Madrona,5050,11260,1984,15,515,,47.6055576,-122.2893234
+Single Family Residential,2459 E Interlaken Blvd,Seattle,WA,98112,1650000,3,2.5,Montlake,2740,5440,1925,15,602,,47.6330121,-122.3004961
+Single Family Residential,2848 NW 66th St,Seattle,WA,98117,1650000,3,3,Sunset Hill,2736,5000,2008,15,603,,47.6768648,-122.3950416
+Single Family Residential,2011 S Washington St Unit B,Seattle,WA,98144,539999,2,1.5,Central Area,950,950,2003,15,568,,47.6005555,-122.3057539
+Single Family Residential,4808 S Frontenac St,Seattle,WA,98118,768888,3,3,Brighton,2040,6250,1980,16,377,,47.5400127,-122.2722278
+Single Family Residential,3323 Martin Luther King Jr Way S,Seattle,WA,98144,499950,2,2,Dunlap,864,533,2020,16,579,,47.5733941,-122.2971258
+Single Family Residential,3325 Martin Luther King Jr Way S,Seattle,WA,98144,499950,2,2,Dunlap,864,533,2020,16,579,,47.5733234,-122.2971422
+Single Family Residential,413 32nd Ave,Seattle,WA,98122,1195950,3,1.75,Leschi,2980,5000,1909,16,401,,47.6055959,-122.2918537
+Single Family Residential,10554 Interlake Ave N,Seattle,WA,98133,699900,3,2.5,Northgate,1830,5060,1927,18,382,,47.7066568,-122.3403953
+Single Family Residential,3217 S Orcas St,Seattle,WA,98118,625000,2,1,Beacon Hill,2100,5100,1916,18,298,,47.5508591,-122.2907004
+Single Family Residential,8421 Grattan Pl S,Seattle,WA,98118,685000,3,2.25,Seward Park,2500,4656,2020,18,274,,47.5268814,-122.2673985
+Single Family Residential,9736 46th Ave NE,Seattle,WA,98115,499950,1,1,Matthews Beach,790,7200,1947,19,633,,47.7004894,-122.278573
+Single Family Residential,3111 E Ward St,Seattle,WA,98112,1095000,3,2.25,Madison Valley,2320,5103,1915,19,472,,47.6272568,-122.2917477
+Single Family Residential,2658 9th Ave W,Seattle,WA,98119,925000,3,1.75,Queen Anne,1530,2100,1914,19,605,,47.6439209,-122.3686151
+Single Family Residential,11055 17th Ave NE,Seattle,WA,98125,599000,2,1,Victory Heights,1160,6290,1938,19,516,,47.7102248,-122.3101595
+Single Family Residential,116 17th Ave Unit B,Seattle,WA,98122,599999,2,1,Judkins,997,15331,1982,19,602,300,47.6023869,-122.3099325
+Single Family Residential,11812 8th Ave NW,Seattle,WA,98177,1550000,3,2.5,Broadview,3640,11892,2008,19,426,,47.7149801,-122.365209
+Single Family Residential,5034 32nd Ave S,Seattle,WA,98118,624950,2,1,Columbia City,970,5500,1956,19,644,,47.555988,-122.2911791
+Single Family Residential,910 E Fir St,Seattle,WA,98122,1100000,3,1.5,Central Area,1630,2400,1900,20,675,,47.6028603,-122.3201494
+Single Family Residential,820 26th Ave,Seattle,WA,98122,714900,2,1,Seattle,1840,6000,1940,20,389,,47.609752,-122.298555
+Single Family Residential,2529 S Juneau St,Seattle,WA,98108,1250000,3,1.5,Beacon Hill,1780,20601,1918,21,702,,47.5496601,-122.2988892
+Single Family Residential,10710 NE Victory Ln,Seattle,WA,98125,660000,3,2,Victory Heights,1300,14200,1938,21,508,,47.706598,-122.3030282
+Single Family Residential,1022 N 47th St,Seattle,WA,98103,900000,3,2,Green Lake,1520,3864,1918,21,592,,47.6630911,-122.3450489
+Single Family Residential,5955 SW Andover St,Seattle,WA,98116,675000,2,1,Beach Drive,1520,2185,1914,23,444,,47.5684043,-122.4088182
+Single Family Residential,5709 Seaview Ave NW,Seattle,WA,98107,3550000,3,3.5,Ballard,4930,4947,1993,24,720,,47.6709311,-122.4055993
+Single Family Residential,3621 38th Ave W,Seattle,WA,98199,895000,2,2,Magnolia,1890,5816,1945,25,474,,47.6529105,-122.4059894
+Single Family Residential,1537 Valentine Pl S,Seattle,WA,98144,849950,2,1,N Beacon Hill,1140,6000,1926,25,746,,47.5886085,-122.3076217
+Single Family Residential,3815 SW Admiral Way,Seattle,WA,98126,1175000,3,2.5,Admiral,2650,3236,2011,25,443,,47.5809508,-122.3808948
+Single Family Residential,5632 35th Ave SW,Seattle,WA,98126,489000,2,1,West Seattle,1520,4840,1927,25,322,,47.5509492,-122.375905
+Single Family Residential,8405 41st Ave SW,Seattle,WA,98136,1250000,3,3.5,Gatewood,3380,5740,1992,25,370,,47.528128,-122.3849278
+Single Family Residential,9029 4th Ave NW,Seattle,WA,98117,625000,2,1,Greenwood,800,5040,1960,26,781,,47.6951554,-122.3623348
+Single Family Residential,4523 31st Ave W,Seattle,WA,98199,1599999,3,2.25,Magnolia,3000,7480,1907,26,533,,47.662096,-122.3974064
+Single Family Residential,10212 41st Ave SW,Seattle,WA,98146,435000,2,0.75,Arbor Heights,860,5054,1939,26,506,,47.5115876,-122.3839626
+Single Family Residential,10022 12th Ave SW,Seattle,WA,98146,449950,3,1.75,White Center,1800,9600,1947,26,250,,47.5130784,-122.3498597
+Single Family Residential,6221 Hampton Rd S,Seattle,WA,98118,890000,3,1.75,Seward Park,1680,7200,1949,26,530,,47.5470331,-122.2599852
+Single Family Residential,5561 Kenwood Pl N,Seattle,WA,98103,975000,3,2,Green Lake,1530,4000,1924,27,637,,47.6700616,-122.3354787
+Single Family Residential,326 Highland Dr,Seattle,WA,98109,3350000,3,3.25,Queen Anne,3730,5637,1921,27,898,,47.6299047,-122.350043
+Single Family Residential,9674 50th Ave SW,Seattle,WA,98136,1050000,3,2.75,Lincoln Park,2730,11285,1908,28,385,,47.5156094,-122.3951643
+Single Family Residential,5942 31st Ave SW,Seattle,WA,98126,589000,2,2.5,High Point,1500,1875,2007,28,393,115,47.5488226,-122.3719384
+Single Family Residential,10415 40th Ave SW,Seattle,WA,98146,549000,3,2,Arbor Heights,1280,7980,1947,29,429,,47.5095764,-122.3832984
+Single Family Residential,4620 Dayton Ave N,Seattle,WA,98103,1350000,3,3.5,Fremont,2025,1625,2020,29,667,,47.6626025,-122.352455
+Single Family Residential,10757 18th Ave SW,Seattle,WA,98146,395000,3,1.75,Shorewood,720,8382,1942,33,549,,47.5053084,-122.358105
+Single Family Residential,2843 34th Ave W,Seattle,WA,98199,925000,3,2.25,Magnolia,2950,6400,1977,33,314,,47.646275,-122.4013305
+Single Family Residential,7517 30th Ave SW,Seattle,WA,98126,549000,2,1,West Seattle,670,4920,1941,33,819,,47.5349792,-122.3714862
+Single Family Residential,2560 10th Ave W,Seattle,WA,98119,810000,2,1,Queen Anne,760,4000,1942,34,1066,,47.6423944,-122.3697926
+Single Family Residential,10224 36th Ave SW,Seattle,WA,98146,600000,3,2,Arbor Heights,1200,6000,1944,34,500,,47.5112419,-122.3767017
+Single Family Residential,7506 S Ryan St,Seattle,WA,98178,850000,3,1.75,Lakeridge,2740,8213,1952,34,310,,47.5098306,-122.2407799
+Single Family Residential,1902 32nd Ave W,Seattle,WA,98199,1125000,3,2.5,Magnolia,2390,3478,1990,34,471,,47.6360824,-122.3985943
+Single Family Residential,5119 S Avon St,Seattle,WA,98178,400000,2,1.75,Upper Rainier Beach,1600,16131,1948,35,250,,47.501141,-122.269647
+Single Family Residential,1414 S Hill St,Seattle,WA,98144,605000,3,2.5,N Beacon Hill,1360,1650,1902,35,445,,47.5847039,-122.3139404
+Single Family Residential,7550 33rd Ave NE,Seattle,WA,98115,899900,3,2,Wedgwood,1840,7650,1939,35,489,,47.6844993,-122.2923469
+Single Family Residential,157 27th Ave,Seattle,WA,98122,700000,2,1,Central Area,1140,3000,1901,36,614,,47.6029648,-122.2981586
+Single Family Residential,7348 10th Ave NW,Seattle,WA,98117,799000,3,1.75,Whittier,1610,3300,1937,37,496,,47.6829016,-122.3691281
+Single Family Residential,806 SW Henderson St,Seattle,WA,98106,750000,2,1,Highland Park,1760,9243,1930,37,426,,47.5230261,-122.3458091
+Single Family Residential,303 Lee St,Seattle,WA,98109,1675000,3,3.75,Queen Anne,2362,1288,2019,37,709,,47.6312591,-122.3510202
+Single Family Residential,11403 Woodley Ave S,Seattle,WA,98178,445000,3,2,Lakeridge,1700,6050,1944,41,262,,47.5010385,-122.2428427
+Single Family Residential,1511 5th Ave N,Seattle,WA,98109,1499000,3,1.75,Queen Anne,2790,5949,1910,41,537,,47.632735,-122.347473
+Single Family Residential,314 NW 80th St,Seattle,WA,98117,850000,3,3.25,Greenwood,1650,4800,1913,41,515,,47.6871437,-122.3613594
+Single Family Residential,6231 S 129th St,Seattle,WA,98178,600000,2,1,Campbell Hill,1370,23700,1943,42,438,,47.4872342,-122.2554929
+Single Family Residential,1929 42nd Ave SW,Seattle,WA,98116,699000,3,2,Admiral,1470,3125,1905,42,476,,47.5857232,-122.3852783
+Single Family Residential,1314 100th Ave N,Seattle,WA,98133,649000,3,1,Licton Springs,1665,4500,1927,42,390,,47.7017046,-122.341344
+Single Family Residential,1006 S Donovan St,Seattle,WA,98108,345000,2,1,South Park,950,6000,1907,45,363,,47.5258091,-122.319807
+Single Family Residential,11502 6th Ave NW,Seattle,WA,98177,1195000,0,,Crown Hill,7240,36555,2020,46,165,,47.712213,-122.3629486
+Single Family Residential,418 N Bowdoin Pl,Seattle,WA,98103,2195000,3,3.25,Fremont,3453,4800,2018,47,636,,47.6547793,-122.3536246
+Single Family Residential,1925 SW 106th,Seattle,WA,98146,534950,3,1.75,North Shorewood,2200,8944,1977,47,243,,47.5084056,-122.3600767
+Single Family Residential,4034 21st Ave SW,Seattle,WA,98106,770500,3,2.5,Pigeon Point,1430,2600,2017,48,539,,47.5673349,-122.3598746
+Single Family Residential,13019 Meridian Ave N,Seattle,WA,98133,649000,3,1,Haller Lake,1400,6560,1950,48,464,,47.7238499,-122.334481
+Single Family Residential,5950 17th Ave SW,Seattle,WA,98106,589000,3,2.25,Puget Ridge,2840,5872,1959,49,207,,47.548616,-122.3556774
+Single Family Residential,4142 19th Ave SW,Seattle,WA,98106,749975,3,3,Pigeon Point,1810,3798,2019,49,414,,47.5653906,-122.3575605
+Single Family Residential,9219 Stone Ave N,Seattle,WA,98103,629999,2,2.5,Licton Springs,1175,1366,2005,50,536,,47.696208,-122.3421269
+Single Family Residential,4517 50th Ave SW,Seattle,WA,98116,775000,3,3,Genesee,2650,5750,1979,51,292,,47.562424,-122.3965981
+Single Family Residential,10618 51st Ave S,Seattle,WA,98178,310000,3,1,Seattle,720,5880,1940,53,431,,47.5055472,-122.2698594
+Single Family Residential,918 N 100th St,Seattle,WA,98133,825000,3,1,Greenwood,750,7687,1920,55,1100,,47.7016354,-122.3464635
+Single Family Residential,5109 S Willow St,Seattle,WA,98118,499000,2,1.75,Seward Park,1150,5000,1915,55,434,,47.540519,-122.2693949
+Single Family Residential,915 N 39th St,Seattle,WA,98103,599999,3,1.75,Fremont,1220,960,1920,56,492,,47.6540246,-122.3465065
+Single Family Residential,636 W Mercer Pl Unit 1-2,Seattle,WA,98119,1250000,3,2,Queen Anne,2420,6400,1907,56,517,,47.6261509,-122.3658817
+Single Family Residential,4228 Interlake Ave N,Seattle,WA,98103,1199000,3,1.5,Wallingford,1560,4000,1921,57,769,,47.6589287,-122.340489
+Single Family Residential,6319 41st Ave SW,Seattle,WA,98136,750000,2,2,West Seattle,1920,4800,1953,58,391,,47.5460662,-122.3847303
+Single Family Residential,4732 48th Ave NE,Seattle,WA,98105,1340000,3,2.5,Laurelhurst,2140,5200,1944,59,626,,47.664058,-122.2754678
+Single Family Residential,2810 NE 115th St,Seattle,WA,98125,719500,3,2,Meadowbrook,1540,8325,1950,60,467,,47.7122564,-122.2969145
+Single Family Residential,9015 13th Ave SW,Seattle,WA,98106,468500,1,1,Highland Park,800,6660,1942,60,586,,47.5223662,-122.3519576
+Single Family Residential,9248 24th Ave SW,Seattle,WA,98106,549500,3,1.75,Westwood,1060,5500,1947,61,518,,47.519653,-122.362889
+Single Family Residential,6754 19th Ave NW Unit B,Seattle,WA,98117,639950,2,1.5,Ballard,872,1931,2020,61,734,35,47.6793451,-122.3808041
+Single Family Residential,9427 8th Ave SW,Seattle,WA,98106,429000,3,1,Highland Park,950,7320,1954,62,452,,47.5183177,-122.3457189
+Single Family Residential,2417 NW 60th St,Seattle,WA,98107,1500000,3,1.75,Ballard,2340,5000,1912,62,641,,47.6721982,-122.3884999
+Single Family Residential,5412 21st Ave NE,Seattle,WA,98105,1499950,3,1.75,Ravenna,3682,5000,1914,63,407,,47.6684035,-122.3050992
+Single Family Residential,2029 Yale Ave E,Seattle,WA,98102,2000000,3,0.75,Eastlake,1150,5500,1907,67,1739,,47.6377595,-122.3274421
+Single Family Residential,6147 S 124th St,Seattle,WA,98178,499900,3,2,Skyway,1400,13266,1952,68,357,,47.4918176,-122.255985
+Single Family Residential,9664 Rainier Ave S,Seattle,WA,98118,1180000,3,1.75,Rainier Beach,1640,2614,1963,68,720,,47.5180673,-122.2552013
+Single Family Residential,424 SW 111th St,Seattle,WA,98146,610000,3,2.5,White Center,1850,3656,2015,69,330,80,47.5044905,-122.339976
+Single Family Residential,2004 E Pine St,Seattle,WA,98122,428000,1,1,Capitol Hill,710,956,1922,69,603,400,47.6154264,-122.3057847
+Single Family Residential,4206 Linden Ave N,Seattle,WA,98103,699950,2,2.5,Fremont,1180,900,2008,69,593,,47.6579738,-122.3483208
+Single Family Residential,4015 Fremont Ave N,Seattle,WA,98103,899000,2,1,Fremont,1230,4000,1912,76,731,,47.6558636,-122.3503265
+Single Family Residential,8832 Interlake Ave N,Seattle,WA,98103,950000,2,1,Green Lake,1560,5125,1946,77,609,,47.6933727,-122.3398679
+Single Family Residential,6021 Beach Dr SW,Seattle,WA,98136,2950000,3,3.5,Beach Drive,3739,16355,2016,77,789,,47.5477959,-122.3985143
+Single Family Residential,3718 E Alder St,Seattle,WA,98122,875000,3,1.75,Leschi,1800,4150,1901,78,486,,47.6040766,-122.2856972
+Single Family Residential,11011 18th Ave SW,Seattle,WA,98146,439500,3,1,Seattle,1450,8382,1942,78,303,,47.5045603,-122.3582078
+Single Family Residential,3014 SW Harbor Ln,Seattle,WA,98126,400000,2,1,Alki,750,3600,1914,79,533,,47.5770735,-122.3723238
+Single Family Residential,7509 S Sunnycrest Rd,Seattle,WA,98178,599500,3,3,Lakeridge,2450,7930,1952,81,245,,47.507274,-122.240016
+Single Family Residential,10625 1st Ave SW,Seattle,WA,98146,450000,2,1,Seattle,895,6120,1942,83,503,,47.5078524,-122.334996
+Single Family Residential,938 N 79th St,Seattle,WA,98103,899000,3,2.25,Green Lake,1830,3000,1987,84,491,,47.6864327,-122.3454487
+Single Family Residential,806 NE 60th St,Seattle,WA,98115,835000,2,1.5,Ravenna,1810,2501,1921,84,461,,47.6723901,-122.3196532
+Single Family Residential,9611 26th Ave NW,Seattle,WA,98117,775000,3,1.5,North Beach,1840,15656,1924,86,421,,47.6989471,-122.3893593
+Single Family Residential,424 N 68th St,Seattle,WA,98103,800000,3,2,Phinney Ridge,1690,2700,1906,89,473,,47.6788993,-122.3532496
+Single Family Residential,546 31st Ave,Seattle,WA,98122,650000,3,1,Leschi,1560,3000,1922,90,417,,47.607517,-122.2923103
+Single Family Residential,832 S Cloverale St,Seattle,WA,98108,875000,0,,South Park,860,6000,1922,92,1017,,47.5266842,-122.3215098
+Single Family Residential,6728 SW 34th Ave SW Unit 33CC,Seattle,WA,98126,699950,3,3,High Point,1897,1995,2020,95,369,122,47.542285,-122.37476
+Single Family Residential,4047 21st Ave SW,Seattle,WA,98106,456000,2,1,Pigeon Point,1220,5000,1918,97,374,,47.5669612,-122.3605629
+Single Family Residential,14514 Stone Ave N,Shoreline,WA,98133,1199999,0,,Westminster,3140,15992,1949,97,382,,47.7346268,-122.3420861
+Single Family Residential,5207 5th Ave NE,Seattle,WA,98105,689500,3,1,Green Lake,1660,2894,1923,97,415,,47.6667461,-122.323115
+Single Family Residential,514 Ward St #102,Seattle,WA,98109,899000,2,2.25,Queen Anne,1755,5160,1998,97,512,300,47.6282812,-122.3468101
+Single Family Residential,5700 SW Spokane St,Seattle,WA,98116,1750000,3,2.5,Genesee,4160,8525,1986,98,421,,47.5724896,-122.4056433
+Single Family Residential,115 27th Ave,Seattle,WA,98122,780000,2,2,Central Area,1800,4600,1947,100,433,,47.6021334,-122.2981113
+Single Family Residential,4600 Phinney Ave N,Seattle,WA,98103,759900,3,1.75,Fremont,1420,590,2018,105,535,,47.6621487,-122.3539956
+Single Family Residential,928 23rd,Seattle,WA,98122,670000,3,1,Central Area,1110,4880,1902,106,604,,47.610909,-122.3024607
+Single Family Residential,9202 23rd Ave SW,Seattle,WA,98106,1300000,2,1,Westwood Village,1110,9454,1947,106,1171,,47.5208526,-122.3623396
+Single Family Residential,434 Lakeside Ave S,Seattle,WA,98144,2995000,2,0.75,Leschi,970,11286,1937,107,3088,,47.5980818,-122.286486
+Single Family Residential,3436 38th Ave SW,Seattle,WA,98126,905000,3,2,Belvidere,2140,5000,1946,111,423,,47.5720371,-122.38
+Single Family Residential,1815 SW 100th St,Seattle,WA,98146,499999,3,2.5,White Center,2090,5227,1919,117,239,,47.513481,-122.3580655
+Single Family Residential,1229 6th Ave N,Seattle,WA,98109,849000,2,1.75,Queen Anne,1920,1647,1908,119,442,,47.630615,-122.3452171
+Single Family Residential,1501 17th Ave E,Seattle,WA,98112,1700000,3,2.5,Capitol Hill,3420,3570,1904,120,497,,47.6324378,-122.3100735
+Single Family Residential,4541 S Brandon St,Seattle,WA,98118,579000,3,2.25,Hillman City,3220,6100,1912,124,180,,47.5531411,-122.2760087
+Single Family Residential,10031 41st Ave SW,Seattle,WA,98146,360200,2,1,Arbor Heights,873,5227,1927,128,413,,47.5128897,-122.384852
+Single Family Residential,6718 34th Ave SW Unit 33RR,Seattle,WA,98126,689950,3,3,High Point,1840,1871,2020,138,375,121,47.542589,-122.374464
+Single Family Residential,11633 Rainier Ave S,Seattle,WA,98178,425000,3,1.75,Bryn Mawr,1330,6553,1945,150,320,,47.4982482,-122.2206018
+Single Family Residential,4104 Leary Way NW,Seattle,WA,98107,829950,2,1,Fremont,1580,4680,1904,166,525,,47.6572707,-122.3627423
+Single Family Residential,5004 Puget Blvd SW,Seattle,WA,98106,565000,1,1,Delridge,720,11770,1965,169,785,,47.5572541,-122.3615282
+Single Family Residential,7915 Seward Park Ave S,Seattle,WA,98118,940000,3,2,Seward Park,3100,8480,1955,174,303,,47.5311709,-122.2667836
+Single Family Residential,950 Hiawatha Pl S,Seattle,WA,98144,795000,1,1,N Beacon Hill,990,3430,1924,176,803,,47.5931286,-122.3078061
+Single Family Residential,319 Randolph Ave,Seattle,WA,98122,1995000,3,2.5,Leschi,2900,7665,1911,188,688,,47.6044213,-122.2865052
+Single Family Residential,728 N 80th St,Seattle,WA,98103,669000,3,1.75,Green Lake,1610,3060,1911,190,416,,47.6871516,-122.3486181
+Single Family Residential,3356 E Shore Dr,Seattle,WA,98112,1849000,3,2,Broadmoor,3130,7310,1926,197,591,165,47.6401354,-122.2884859
+Single Family Residential,6520 Linden Ave N,Seattle,WA,98103,754900,3,2,Green Lake,1540,2800,1928,209,490,,47.6765425,-122.3474542
+Single Family Residential,2444 SW Holden St,Seattle,WA,98106,824850,3,1,Westwood,910,15050,1950,216,906,,47.533925,-122.3651786
+Single Family Residential,300 S Orcas St,Seattle,WA,98108,1250000,3,1.75,Georgetown,2680,5500,1938,217,466,,47.55204391,-122.3307457
+Single Family Residential,5156 S Director St,Seattle,WA,98118,475000,3,1.75,Rainier Beach,1160,8400,1941,241,409,,47.522093,-122.2675441
+Single Family Residential,9829 51st Ave SW,Seattle,WA,98136,3995000,3,3,West Seattle,3304,11722,2008,247,1209,,47.5144843,-122.3957694
+Single Family Residential,139 NW 85th St,Seattle,WA,98117,1199000,0,,Greenwood,860,4280,1910,252,1394,,47.6904386,-122.3596835
+Single Family Residential,10449 11th Ave SW,Seattle,WA,98146,449000,3,2,Burien,2260,8400,1953,267,199,,47.5086696,-122.3492063
+Single Family Residential,6123 S Pilgrim St,Seattle,WA,98118,564995,2,1.75,Rainier Beach,1930,4500,1929,280,293,,47.5157645,-122.2556024
+Single Family Residential,8451 24th Ave SW,Seattle,WA,98106,415000,2,1,Westwood,1232,7680,1918,299,337,,47.526759,-122.3634105
+Single Family Residential,5032 30th Ave S,Seattle,WA,98108,1000000,2,1,Beacon Hill,1980,38544,1953,300,505,,47.5561919,-122.2937849
+Single Family Residential,4037 21st Ave SW,Seattle,WA,98106,1574000,0,,Pigeon Point,870,20380,1918,301,1809,,47.5672616,-122.360521
+Single Family Residential,4308 W Cramer St,Seattle,WA,98199,4500000,3,3.25,Magnolia,6471,14367,2020,328,695,,47.668724,-122.41095
+Single Family Residential,3203 SW Holly St Unit 33LL,Seattle,WA,98126,749950,3,3,High Point,1840,2000,2020,362,408,122,47.542693,-122.374067
+Single Family Residential,1330 Alki Ave SW,Seattle,WA,98116,2000000,2,1,Alki,1900,9020,1915,404,1053,,47.5922171,-122.391157
+Single Family Residential,1804 16th Ave S,Seattle,WA,98144,1595000,3,2.5,N Beacon Hill,2486,8408,2019,566,642,,47.586824,-122.3116803
+Single Family Residential,8808 Interlake Ave N,Seattle,WA,98103,649950,3,1.75,Green Lake,1360,5125,1949,790,478,,47.6926599,-122.3399416
+Single Family Residential,11346 Sunnyside Ave N,Seattle,WA,98133,500000,2,1,Seattle,630,7900,1943,166,794,,47.7118078,-122.3297821
+Single Family Residential,3034 45th Ave SW,Seattle,WA,98116,1000000,3,2,Seattle,2000,6250,1909,279,500,,47.5759675,-122.389084
+Single Family Residential,3738 38th Ave SW,Seattle,WA,98126,1575000,4,3.25,Belvidere,3417,7500,1913,6,461,,47.570138,-122.3804713
+Single Family Residential,6756 13th Ave SW,Seattle,WA,98106,698000,4,1.75,Delridge,1550,7225,1977,68,450,,47.5411945,-122.3512759
+Single Family Residential,3003 NW 72nd St,Seattle,WA,98117,1125000,4,4,Sunset Hill,3080,5200,1910,69,365,,47.6807351,-122.3959591
+Single Family Residential,415 20th Ave S,Seattle,WA,98144,928000,4,2.75,Central Area,2580,4895,1928,1,360,,47.598677,-122.3066289
+Single Family Residential,6317 45th Ave SW,Seattle,WA,98136,775000,4,1.5,Seaview,2320,6000,1970,1,334,,47.5461591,-122.3902585
+Single Family Residential,2719 10th Ave W,Seattle,WA,98119,1279000,4,2.25,Queen Anne,2140,2030,1918,1,598,,47.6449044,-122.3703876
+Single Family Residential,6632 Flora Ave S,Seattle,WA,98108,715000,4,2.75,Georgetown,2520,4700,1919,1,284,,47.5430669,-122.3200605
+Single Family Residential,10117 2nd Ave S,Seattle,WA,98168,599000,4,2.5,White Center,2100,9700,1963,1,285,,47.5125874,-122.331768
+Single Family Residential,1533 NE 92nd St,Seattle,WA,98115,640000,4,1.75,Maple Leaf,1860,6670,1947,1,344,,47.6956136,-122.3106989
+Single Family Residential,5244 17th Ave NE,Seattle,WA,98105,1250000,4,2.75,Ravenna,2470,4320,1908,1,506,,47.6677201,-122.3091359
+Single Family Residential,5516 Woodlawn Ave N,Seattle,WA,98103,1095000,4,4,Green Lake,2893,4200,1919,1,378,,47.6692346,-122.3376947
+Single Family Residential,5217 5th Ave NE,Seattle,WA,98105,1100000,4,2,Green Lake,1980,5100,1921,1,556,,47.6670083,-122.3231329
+Single Family Residential,510 N 65th St,Seattle,WA,98103,949950,4,3.5,Green Lake,2030,4960,1926,1,468,,47.6762652,-122.3521431
+Single Family Residential,310 Lynn St,Seattle,WA,98109,1395000,4,3.25,Queen Anne,2310,4000,1908,1,604,,47.639328,-122.3513989
+Single Family Residential,2020 NE 113th St,Seattle,WA,98125,799950,4,2.5,Victory Heights,1630,7500,1938,1,491,,47.7105035,-122.3054872
+Single Family Residential,916 B 14th Ave,Seattle,WA,98122,1395000,4,3,Central Area,2647,1760,2020,1,527,,47.6109244,-122.3138103
+Single Family Residential,3855 NE 98th St,Seattle,WA,98115,1250000,4,3,Wedgwood,2500,8882,1958,1,500,,47.6999508,-122.2856071
+Single Family Residential,2320 Eyres Pl W,Seattle,WA,98199,1195000,4,2.25,Magnolia,3250,5350,1938,1,368,,47.6389639,-122.4052265
+Single Family Residential,3281 36th Ave SW,Seattle,WA,98126,825000,4,2,Belvidere,2440,5912,1924,1,338,,47.5732836,-122.377379
+Single Family Residential,6510 S Langston Rd,Seattle,WA,98178,480000,4,2.5,Seattle,1710,22433,1963,1,281,,47.4862335,-122.2521586
+Single Family Residential,3637 56th Ave SW,Seattle,WA,98116,1398000,4,2.5,Genesee,2960,8165,1956,1,472,,47.571097,-122.4040909
+Single Family Residential,2057 24th Ave E,Seattle,WA,98112,979000,4,1,Montlake,2620,4920,1920,1,374,,47.6387333,-122.302205
+Single Family Residential,9730 48th Ave NE,Seattle,WA,98115,990000,4,2.75,Matthews Beach,2310,8402,1997,1,429,,47.7002997,-122.2761781
+Single Family Residential,4611 NE 110th St,Seattle,WA,98125,1399950,4,3.5,Matthews Beach,3280,9000,2006,2,427,,47.7091392,-122.2781898
+Single Family Residential,7323 29th Ave SW,Seattle,WA,98126,659950,4,1.75,Westwood,1620,6500,1945,2,407,,47.536664,-122.3700687
+Single Family Residential,14319 36th Ave NE,Seattle,WA,98125,750000,4,2,Cedar Park,2380,8115,1940,2,315,,47.7325511,-122.2899865
+Single Family Residential,6006 35th Ave NE,Seattle,WA,98115,925000,4,2.5,Bryant,3060,4000,1939,2,302,,47.6724119,-122.2899221
+Single Family Residential,4719 46th Ave S,Seattle,WA,98118,965000,4,2.75,Columbia City,2580,7200,1912,2,374,,47.5599156,-122.2761022
+Single Family Residential,4052 SW Donovan St,Seattle,WA,98136,875000,4,2.25,Fauntleroy,2640,6900,1952,2,331,,47.5254286,-122.384675
+Single Family Residential,7513 11th Ave SW,Seattle,WA,98106,1075950,4,3,Highland Park,2684,4749,2015,3,401,,47.5350637,-122.3496101
+Single Family Residential,934 24th Ave S,Seattle,WA,98144,899000,4,2,Judkins,2420,4000,1908,4,371,,47.593514,-122.3008746
+Single Family Residential,3727 W Barrett St,Seattle,WA,98199,2550000,4,3.25,Magnolia,4870,8634,1993,4,524,,47.6466563,-122.4058299
+Single Family Residential,304 NW 51st St,Seattle,WA,98107,1250000,4,2.5,Phinney Ridge,3030,5000,1901,5,413,,47.6659072,-122.3610328
+Single Family Residential,3859 37th Ave S,Seattle,WA,98118,880000,4,1.75,Mt Baker,3070,5284,1921,5,287,,47.5680928,-122.2863833
+Single Family Residential,7711 Meridian Ave N,Seattle,WA,98103,1589950,4,3.5,Green Lake,2720,4290,1992,5,585,,47.685512,-122.3333763
+Single Family Residential,1827 31st Ave,Seattle,WA,98122,1374950,4,3.25,Madison Valley,3320,4400,2007,5,414,,47.6184233,-122.2927279
+Single Family Residential,5233 S Farrar St,Seattle,WA,98118,1350000,4,3.25,Seward Park,2790,4000,2015,5,484,,47.5553486,-122.2666788
+Single Family Residential,10058 Stone Ave N,Seattle,WA,98133,885000,4,2.75,Licton Springs,2466,5320,1930,5,359,,47.7030721,-122.3416357
+Single Family Residential,5207 48th Ave S,Seattle,WA,98118,834950,4,2,Columbia City,2020,4872,1907,5,413,,47.5548885,-122.2728995
+Single Family Residential,8225 Wallingford Ave N,Seattle,WA,98103,875000,4,3,Green Lake,2034,5190,2003,5,430,,47.6895024,-122.3370418
+Single Family Residential,2414 Belvidere Ave SW,Seattle,WA,98126,1350000,4,1.5,North Admiral,2986,8000,1923,5,452,,47.5820382,-122.3789422
+Single Family Residential,4921 Lake Washington Blvd S,Seattle,WA,98118,1685000,4,3.75,Lakewood,3570,7200,1953,5,472,,47.5576453,-122.2634523
+Single Family Residential,7415 25th Ave NE,Seattle,WA,98115,975000,4,2.25,Ravenna,2420,6204,1978,6,403,,47.6824354,-122.3010861
+Single Family Residential,1516 34th Ave,Seattle,WA,98122,1145000,4,2.25,Madrona,2600,3300,1911,6,440,,47.6145942,-122.2889766
+Single Family Residential,2137 NW 96th St,Seattle,WA,98117,1650000,4,3.5,North Beach,3638,7500,1963,6,454,,47.6987406,-122.3847052
+Single Family Residential,6018 51st Pl S,Seattle,WA,98118,1950000,4,3.5,Seward Park,3922,10584,2004,6,497,,47.548315,-122.2681144
+Single Family Residential,715 SW 108th St,Seattle,WA,98146,579950,4,2,White Center,1900,11100,1968,6,305,,47.5063057,-122.3438315
+Single Family Residential,9322 45th Ave SW,Seattle,WA,98136,1150000,4,2,Fauntleroy,2200,7000,1963,6,523,,47.5194041,-122.3904825
+Single Family Residential,1628 10th Ave W,Seattle,WA,98119,1279000,4,2.25,Queen Anne,2520,3890,1919,6,508,,47.6344635,-122.3700745
+Single Family Residential,7501 California Ave SW,Seattle,WA,98136,750000,4,1.75,Gatewood,2840,4731,1911,6,264,,47.5356567,-122.3876264
+Single Family Residential,3305 E Olive St,Seattle,WA,98122,869000,4,2,Madrona,1920,4000,1956,7,453,,47.6163768,-122.2899783
+Single Family Residential,11220 Marine View Dr SW,Seattle,WA,98146,739950,4,1.5,Arbor Heights,2020,6936,1951,7,366,,47.5021762,-122.3806128
+Single Family Residential,2203 47th Ave SW,Seattle,WA,98116,1495000,4,2.25,North Admiral,2900,7824,1926,7,516,,47.5838724,-122.3921078
+Single Family Residential,3409 SW Holden St,Seattle,WA,98126,729950,4,1.75,Westwood,2380,6314,1916,7,307,,47.5335512,-122.3757657
+Single Family Residential,3602 NE 145th St,Lake Forest Park,WA,98155,749900,4,2.5,Lake Forest Park,2010,1850,2017,8,373,60,47.7338867,-122.2897271
+Single Family Residential,5026 46th Ave S,Seattle,WA,98118,545000,4,1,Columbia City,1510,3150,1927,8,361,,47.5562555,-122.2750767
+Single Family Residential,8137 29th Ave SW,Seattle,WA,98126,839950,4,2,Westwood,3100,7500,1950,8,271,,47.5289387,-122.3701761
+Single Family Residential,3829 41st Ave NE,Seattle,WA,98105,1799000,4,3,Laurelhurst,3230,4500,1939,8,557,,47.6574623,-122.2842783
+Single Family Residential,3802 E McGilvra St,Seattle,WA,98112,4200000,4,2.75,Madison Park,3410,29247,1970,9,1232,,47.6417184,-122.2840796
+Single Family Residential,3040 S Chicago St,Seattle,WA,98108,599990,4,2,Beacon Hill,1940,5000,1963,9,309,,47.532595,-122.2917293
+Single Family Residential,2403 Prescott Ave SW,Seattle,WA,98126,1100000,4,2.5,North Admiral,2900,9100,1941,9,379,,47.5825295,-122.3794195
+Single Family Residential,4618 13th Ave S,Seattle,WA,98108,749999,4,2,Beacon Hill,1870,4650,1920,10,401,,47.5611003,-122.3157837
+Single Family Residential,4461 26th Ave SW,Seattle,WA,98106,995000,4,1.75,Delridge,2940,5200,1925,12,338,,47.5630827,-122.3660802
+Single Family Residential,3440 NW 65th St,Seattle,WA,98117,1899900,4,3.5,Sunset Hill,3182,6382,2014,12,597,,47.6762665,-122.4028243
+Single Family Residential,438 39th Ave E,Seattle,WA,98112,10800000,4,3.75,Washington Park,6114,16222,2019,12,1766,,47.6238544,-122.2829469
+Single Family Residential,4625 S Hudson St,Seattle,WA,98118,775000,4,3,Seward Park,2530,4104,1958,12,306,,47.5570546,-122.2746066
+Single Family Residential,4561 Purdue Ave NE,Seattle,WA,98105,1250000,4,1.75,Hawthorne Hills,2910,7497,1946,13,430,,47.6699804,-122.2774941
+Single Family Residential,10138 3rd Ave NW,Seattle,WA,98177,559000,4,2,Greenwood,1800,6077,1940,13,311,,47.7033705,-122.3603945
+Single Family Residential,3021 42nd Ave W,Seattle,WA,98199,1649000,4,2.75,Magnolia,3630,5800,1937,13,454,,47.6474795,-122.4110976
+Single Family Residential,8523 S 121st St,Seattle,WA,98178,589000,4,2.5,Bryn Mawr,1700,3000,1999,13,346,,47.4940482,-122.2245653
+Single Family Residential,3522 Densmore Ave N,Seattle,WA,98103,1746000,4,5,Wallingford,3870,4845,1982,13,451,,47.6499334,-122.3372052
+Single Family Residential,1614 E Yesler Way,Seattle,WA,98122,965000,4,2.75,Central Area,2300,2063,2015,14,420,,47.6018371,-122.3107396
+Single Family Residential,1420 Broadmoor Dr E,Seattle,WA,98112,2695000,4,2.25,Broadmoor,3657,7023,1950,14,737,165,47.6320913,-122.2879107
+Single Family Residential,5019 52nd Ave S,Seattle,WA,98118,1598950,4,3.5,Seward Park,3101,3757,2020,14,516,,47.55646,-122.268511
+Single Family Residential,10822 Rainier Ave S,Seattle,WA,98178,1690000,4,3.25,Upper Rainier Beach,2900,8113,1977,14,583,,47.5065207,-122.2312001
+Single Family Residential,7531 19th Ave NE,Seattle,WA,98115,1450000,4,3,Roosevelt,2570,3515,1928,15,564,,47.6840096,-122.3080745
+Single Family Residential,621 33rd Ave E,Seattle,WA,98112,2395000,4,3.25,Washington Park,3800,5400,2004,15,630,,47.6256678,-122.2898382
+Single Family Residential,6852 54th Ave NE,Seattle,WA,98115,2540000,4,4,View Ridge,4224,6820,2018,18,601,,47.6790902,-122.2700064
+Single Family Residential,2904 W Tilden St,Seattle,WA,98199,1147000,4,1.75,Magnolia,2530,6000,1949,18,453,,47.6533748,-122.3946153
+Single Family Residential,3618 Interlake Ave N,Seattle,WA,98103,899950,4,1.75,Wallingford,1504,2228,1904,19,598,,47.6511584,-122.3410734
+Single Family Residential,421 30th Ave S,Seattle,WA,98144,1895000,4,3.75,Leschi,4870,10350,1887,19,389,,47.59851292,-122.2940325
+Single Family Residential,1358 32nd Ave S,Seattle,WA,98144,2500000,4,4.25,Leschi,4343,3200,2017,19,576,,47.5908716,-122.2911091
+Single Family Residential,4964 15th Ave S,Seattle,WA,98108,749950,4,2,Beacon Hill,1904,5162,1940,19,394,,47.557427,-122.3131911
+Single Family Residential,4504 S Holly St,Seattle,WA,98118,599950,4,2,Rainier Valley,1540,5842,1927,20,390,,47.5426397,-122.2762059
+Single Family Residential,4826 26th Ave SW,Seattle,WA,98106,799000,4,2.5,Delridge,2400,7200,1966,20,333,,47.5584711,-122.3652427
+Single Family Residential,4036 5th Ave NE,Seattle,WA,98105,797000,4,2.25,Wallingford,2491,4000,1926,20,320,,47.6566922,-122.323234
+Single Family Residential,5026 Puget Blvd SW,Seattle,WA,98106,1199950,4,3.25,Puget Ridge,3120,5000,2016,21,385,,47.5567245,-122.3610194
+Single Family Residential,4201 SW Donald St,Seattle,WA,98116,2425000,4,3.25,North Admiral,3167,5027,2017,21,766,,47.5920339,-122.3856292
+Single Family Residential,342 NW 51st St,Seattle,WA,98107,899988,4,1,Ballard,1200,5000,1944,22,750,,47.6659081,-122.3626531
+Single Family Residential,4044 33rd Ave W,Seattle,WA,98199,1950000,4,3,Magnolia,3627,6000,2011,24,538,,47.6572899,-122.3991752
+Single Family Residential,3213 21st Ave S,Seattle,WA,98144,849990,4,2,Beacon Hill,1660,3244,1949,25,512,,47.5745949,-122.3055273
+Single Family Residential,11548 28th Ave NE,Seattle,WA,98125,1447000,4,3.5,Lake City,3706,6331,2020,26,390,,47.7133831,-122.2973212
+Single Family Residential,8038 Mary Ave NW,Seattle,WA,98117,1500000,4,3.5,Whittier,2950,5080,2013,26,508,,47.6880358,-122.3751459
+Single Family Residential,6924 40th Ave SW,Seattle,WA,98136,1695000,4,2.5,Gatewood,4400,13278,1950,27,385,,47.5405528,-122.3828219
+Single Family Residential,8830 40th Ave SW,Seattle,WA,98136,789000,4,1.75,Fauntleroy,2240,5580,1954,27,352,,47.5235739,-122.3828318
+Single Family Residential,423 35th Ave S,Seattle,WA,98144,1850000,4,4.25,Leschi,4170,4800,2012,28,444,,47.5984004,-122.2882032
+Single Family Residential,6030 31st Ave S,Seattle,WA,98108,699000,4,2,Beacon Hill,2020,4794,1954,28,346,,47.5470511,-122.2923413
+Single Family Residential,13931 Par Pl NE,Seattle,WA,98125,1270000,4,4.25,Seattle,4700,13950,1949,28,270,,47.7303215,-122.3266811
+Single Family Residential,946 19th Ave E,Seattle,WA,98112,1187500,4,1.5,Capitol Hill,1930,4320,1906,29,615,,47.6282083,-122.3069323
+Single Family Residential,913 27th Ave,Seattle,WA,98122,975000,4,2.75,Central Area,1900,4814,1908,29,513,,47.6105281,-122.2978186
+Single Family Residential,13214 42nd Ave NE,Seattle,WA,98125,1680999,4,4.5,Cedar Park,3948,9603,2014,30,426,50,47.7250971,-122.2820591
+Single Family Residential,213 96th Ln SW,Seattle,WA,98106,757900,4,2.5,White Center,2528,3480,2020,30,300,75,47.515854,-122.338766
+Single Family Residential,3931 SW Arroyo Dr,Seattle,WA,98146,1700000,4,3.25,West Seattle,3317,21960,1951,31,513,,47.5026708,-122.3832411
+Single Family Residential,1716 36th Ave,Seattle,WA,98122,3495000,4,5.5,Madrona,5060,7482,1910,31,691,,47.6170617,-122.2866977
+Single Family Residential,9445 14th Ave SW,Seattle,WA,98106,585000,4,1.75,Highland Park,1630,6771,1930,33,359,,47.5178775,-122.3530715
+Single Family Residential,3952 SW Ida St,Seattle,WA,98136,799950,4,2,Gatewood,3150,5355,1912,33,254,,47.5345663,-122.3842406
+Single Family Residential,13055 Corliss Ave N,Seattle,WA,98133,699950,4,1.75,Haller Lake,1830,6952,1928,33,382,,47.7248723,-122.3319163
+Single Family Residential,2316 Boyer Ave E,Seattle,WA,98112,1795000,4,3,Montlake,3530,3120,1928,34,508,,47.6401244,-122.3114013
+Single Family Residential,3401 Magnolia Blvd W,Seattle,WA,98199,2245000,4,3.5,Magnolia,3669,8658,2020,34,612,,47.6507083,-122.4145684
+Single Family Residential,11109 5th Ave SW,Seattle,WA,98146,675000,4,2.5,White Center,2680,4280,2016,35,252,80,47.5040799,-122.3413756
+Single Family Residential,3046 SW Manning St,Seattle,WA,98126,1148000,4,3.5,Belvidere,3340,4120,2008,35,344,,47.5714638,-122.3726039
+Single Family Residential,6815 35th Ave NW,Seattle,WA,98117,1625000,4,3.5,Sunset Hill,3290,4200,1992,36,494,,47.6787332,-122.4027033
+Single Family Residential,8325 Martin Luther King Jr Way S,Seattle,WA,98118,695000,4,2,Beacon Hill,1350,7570,1976,36,515,,47.5284305,-122.2806816
+Single Family Residential,5905 S Roxbury St,Seattle,WA,98118,500000,4,1.5,Seattle,1730,5928,1940,37,289,,47.516536,-122.258906
+Single Family Residential,9725 Phinney Ave N,Seattle,WA,98103,850000,4,1.75,Greenwood,2200,5934,1938,39,386,,47.7004443,-122.3542911
+Single Family Residential,2436 NW 64th St Unit C,Seattle,WA,98107,1025950,4,2.25,Ballard,2108,1000,2020,40,487,,47.6755179,-122.3893059
+Single Family Residential,2831 22nd Ave W,Seattle,WA,98199,750000,4,2,Magnolia,2390,6000,1910,40,314,,47.645761,-122.3849304
+Single Family Residential,12703 37th Ave NE,Seattle,WA,98125,999500,4,2.5,Cedar Park,2624,7772,2014,41,381,,47.7213788,-122.2891827
+Single Family Residential,6046 53rd Ave NE,Seattle,WA,98115,1250000,4,1.75,Hawthorne Hills,2660,6000,1950,43,470,,47.6736766,-122.2700896
+Single Family Residential,1717 Ferry Ave SW,Seattle,WA,98116,1395000,4,2.5,North Admiral,3290,5714,1991,47,424,,47.5877753,-122.3842396
+Single Family Residential,3039 39th Ave SW,Seattle,WA,98116,874999,4,1.75,Belvidere,2200,3225,1924,47,398,,47.5757674,-122.3816491
+Single Family Residential,4603 3rd Ave NW,Seattle,WA,98107,897444,4,1.75,Fremont,1860,3270,1948,48,482,,47.6623635,-122.3609762
+Single Family Residential,4141 Fauntleroy Way SW,Seattle,WA,98126,735950,4,2,West Seattle,1800,4000,1941,54,409,,47.5657691,-122.3755773
+Single Family Residential,14044 28th Ave NE,Seattle,WA,98125,700000,4,1.75,Olympic Hills,1620,8010,1969,54,432,,47.7314982,-122.2976605
+Single Family Residential,6302 Swift Ave S,Seattle,WA,98108,725000,4,3.5,Beacon Hill,2100,7120,2003,54,345,,47.5469366,-122.3074368
+Single Family Residential,3460 SW 111th St,Seattle,WA,98146,999950,4,2.5,Arbor Heights,2530,6890,1958,54,395,,47.5039764,-122.3757249
+Single Family Residential,10416 42nd Ave NE,Seattle,WA,98125,869787,4,2.5,Meadowbrook,2300,7914,1961,56,378,,47.7042915,-122.2824279
+Single Family Residential,1122 26th Ave,Seattle,WA,98122,1154000,4,2,Central Area,2790,3390,1919,57,414,,47.6122539,-122.2985442
+Single Family Residential,3430 12th Ave W,Seattle,WA,98119,1495000,4,2.5,Queen Anne,2650,6000,1997,58,564,,47.6513673,-122.3719236
+Single Family Residential,2219 SW 103rd Pl,Seattle,WA,98146,749900,4,2.25,North Shorewood,2310,4000,2014,59,325,,47.5107673,-122.3621236
+Single Family Residential,7740 Corliss Ave N,Seattle,WA,98103,925000,4,2,Green Lake,2360,5000,1948,60,392,,47.6863117,-122.3301578
+Single Family Residential,10673 Rainier Ave S,Seattle,WA,98178,499950,4,4,Bryn Mawr,2294,9933,1948,60,218,,47.506655,-122.2324037
+Single Family Residential,5516 33rd Ave S,Seattle,WA,98118,549950,4,2,Beacon Hill,1650,5000,1925,60,333,,47.5519533,-122.2901099
+Single Family Residential,4526 Beach Dr SW,Seattle,WA,98116,1362000,4,2.5,Beach Drive,2680,6754,1921,60,508,,47.5624719,-122.4052628
+Single Family Residential,2911 W Howe St,Seattle,WA,98199,2295000,4,3,Magnolia,3962,5000,2020,61,579,,47.6357766,-122.3948677
+Single Family Residential,10336 Interlake Ave N,Seattle,WA,98133,849000,4,1.75,Northgate,2028,4980,1944,62,419,,47.7043715,-122.3403337
+Single Family Residential,1649 Shenandoah Dr E,Seattle,WA,98112,3400000,4,4,Broadmoor,4728,8700,1928,62,719,,47.6350364,-122.2895731
+Single Family Residential,7954 Seward Park Ave S,Seattle,WA,98118,674500,4,2,Seattle,2379,4399,1925,63,284,,47.5300191,-122.2659897
+Single Family Residential,5802 4th Ave NW,Seattle,WA,98107,988000,4,2.5,Ballard,2060,4000,1926,63,480,,47.6710412,-122.3615651
+Single Family Residential,947 N 90th St Unit 1 & 2,Seattle,WA,98103,820000,4,2.75,Green Lake,3670,5100,1932,66,223,,47.694021,-122.3451589
+Single Family Residential,3209 SW Holly St Unit 33II,Seattle,WA,98126,759950,4,3,High Point,2074,1860,2020,66,366,122,47.542369,-122.374027
+Single Family Residential,9131 8th Ave S,Seattle,WA,98108,659950,4,2.5,South Park,2368,5000,2020,67,279,,47.5213764,-122.3234146
+Single Family Residential,3204 SW Holly St St Unit 25CC,Seattle,WA,98126,769950,4,3,High Point,2074,1860,2019,68,371,122,47.5429536,-122.3741515
+Single Family Residential,5750 S Ryan St,Seattle,WA,98178,875000,4,3.5,Upper Rainier Beach,3426,5264,2012,68,255,,47.5099069,-122.2598504
+Single Family Residential,6104 47th Ave S,Seattle,WA,98118,599000,4,1.75,Hillman City,1700,5873,1985,69,352,,47.5475269,-122.2734744
+Single Family Residential,11234 Cornell Ave S,Seattle,WA,98178,525000,4,2,Lakeridge,1430,6380,1944,69,367,,47.5016498,-122.2410331
+Single Family Residential,7730 18th Ave SW,Seattle,WA,98106,572000,4,2,Highland Park,1680,5148,1922,69,340,,47.532785,-122.3574617
+Single Family Residential,11407 69th Pl S,Seattle,WA,98178,659000,4,3.25,Lakeridge,3260,11200,1962,69,202,,47.5021107,-122.247209
+Single Family Residential,2325 W Viewmont Way W,Seattle,WA,98199,1549000,4,2.5,Magnolia,3000,5350,1952,70,516,,47.638855,-122.408142
+Single Family Residential,1609 1611 SW Barton St,Seattle,WA,98106,689000,4,2,West Seattle,1510,4071,1955,70,456,,47.5208045,-122.3556887
+Single Family Residential,3205 SW Holly St Unit 33KK,Seattle,WA,98126,729950,4,3,High Point,2074,1860,2019,71,352,122,47.542524,-122.374032
+Single Family Residential,3317 W Elmore St,Seattle,WA,98199,1750000,4,3.25,Magnolia,3628,4800,2020,72,482,,47.6574402,-122.400332
+Single Family Residential,906 SW Kenyon St,Seattle,WA,98106,414000,4,1,Highland Park,1200,3095,1922,72,345,,47.5321279,-122.3472465
+Single Family Residential,2102 18th Ave S,Seattle,WA,98144,640000,4,2,Beacon Hill,2200,6000,1963,75,291,,47.5843695,-122.309127
+Single Family Residential,1206 E Newton St,Seattle,WA,98102,2200000,4,3,Capitol Hill,4660,4000,1915,75,472,,47.637459,-122.3169341
+Single Family Residential,334 W Kinnear Pl,Seattle,WA,98119,2395000,4,3.25,Queen Anne,3210,6674,1925,75,746,,47.6279917,-122.3622176
+Single Family Residential,4412 SW 101st St,Seattle,WA,98146,739000,4,2.5,Arbor Heights,2390,6032,1930,75,309,,47.5131777,-122.3892173
+Single Family Residential,5221 Lake Washington Blvd S,Seattle,WA,98118,2300000,4,2.25,Hillman City,2710,20197,1921,77,849,,47.5541535,-122.2613371
+Single Family Residential,9690 Lindsay Pl S,Seattle,WA,98118,749990,4,3.25,Upper Rainier Beach,2285,3428,2020,82,328,69,47.5168217,-122.2646398
+Single Family Residential,2819 S Alaska Pl,Seattle,WA,98108,699999,4,1,Columbia City,1660,6120,1908,84,422,,47.5606808,-122.2959323
+Single Family Residential,1417 NW 60th St,Seattle,WA,98107,750000,4,1,Ballard,2580,3076,1900,84,291,,47.6721845,-122.3744525
+Single Family Residential,2344 Harvard Ave E,Seattle,WA,98102,1890000,4,2.5,Capitol Hill,3790,7000,1984,91,499,,47.6401988,-122.3220107
+Single Family Residential,2102 8th Ave N,Seattle,WA,98109,2285000,4,4.5,Queen Anne,3340,2671,2002,95,684,,47.6381985,-122.3418123
+Single Family Residential,5240 Brooklyn Ave NE Unit B,Seattle,WA,98105,856000,4,2.5,University District,1500,8240,2020,96,571,,47.6676414,-122.3139229
+Single Family Residential,5240 Brooklyn Ave NE Unit A,Seattle,WA,98105,866000,4,2.5,University District,1500,8240,2020,96,577,,47.6676414,-122.3139229
+Single Family Residential,5124 S Creston (lot G) St,Seattle,WA,98178,759000,4,2.5,Seattle,2383,7222,2019,97,319,,47.507444,-122.2690051
+Single Family Residential,6015 53rd Ave NE,Seattle,WA,98115,1765000,4,3.25,Hawthorne Hills,3492,5003,2019,97,505,,47.6727256,-122.2707813
+Single Family Residential,3220 Sierra Dr S,Seattle,WA,98144,1895000,4,3.25,Mt Baker,3900,5791,1929,98,486,,47.5745719,-122.2827717
+Single Family Residential,1215 W Ruffner St,Seattle,WA,98119,1999950,4,3.25,Queen Anne,3750,6000,2014,100,533,,47.6519839,-122.3732288
+Single Family Residential,5315 Martin Luther King Jr Way S,Seattle,WA,98118,650000,4,2,Seattle,1248,3515,1919,100,521,,47.5537437,-122.2897183
+Single Family Residential,11345 20th Ave NE,Seattle,WA,98125,1425000,4,2.75,Victory Heights,3030,7494,2020,102,470,,47.7114347,-122.3066927
+Single Family Residential,1128 Lakeview Blvd E,Seattle,WA,98102,975000,4,1.75,Capitol Hill,1310,4500,1908,111,744,,47.629941,-122.324863
+Single Family Residential,123 Highland Dr,Seattle,WA,98109,4875000,4,3.25,Queen Anne,4873,7200,1954,111,1000,,47.6295905,-122.3543095
+Single Family Residential,11317 40th Ave NE,Seattle,WA,98125,1950000,4,3.25,Meadowbrook,4054,7455,2020,113,481,,47.710716,-122.2855546
+Single Family Residential,801 E Gwinn Pl,Seattle,WA,98102,1738500,4,4.25,Roanoke Park,4250,5006,2013,120,409,,47.6476466,-122.3217563
+Single Family Residential,6030 35th Ave NE,Seattle,WA,98115,999950,4,2,Bryant,2190,4000,1924,132,457,,47.6730715,-122.2898698
+Single Family Residential,4002 NE 75th St,Seattle,WA,98115,650000,4,2,Seattle,1610,6000,1955,134,404,,47.6832142,-122.2848595
+Single Family Residential,1701 E John St,Seattle,WA,98112,1399950,4,2,Capitol Hill,2790,3700,1908,134,502,,47.6194879,-122.3098624
+Single Family Residential,9689 3rd Pl SW,Seattle,WA,98106,752808,4,2.5,White Center,2682,3560,2020,152,281,94,47.515984,-122.339823
+Single Family Residential,214 SW 96th Ln,Seattle,WA,98106,755860,4,2.5,White Center,2528,3480,2020,156,299,94,47.515987,-122.339051
+Single Family Residential,2822 4th Ave W,Seattle,WA,98119,1200000,4,2.5,Queen Anne,2400,4762,1986,160,500,,47.6456832,-122.3619355
+Single Family Residential,1135 Parkside Dr E,Seattle,WA,98112,2395000,4,2.75,Broadmoor,2150,10838,1936,183,1114,,47.629551,-122.2913578
+Single Family Residential,1410 Alki Ave SW,Seattle,WA,98116,1149000,4,2,Alki,1880,3720,1984,188,611,,47.590437,-122.3926016
+Single Family Residential,12055 69th Ave S,Seattle,WA,98178,425000,4,2.5,Seattle,1875,6160,1944,201,227,,47.4931976,-122.2480631
+Single Family Residential,2503 Montavista Pl W,Seattle,WA,98199,2995000,4,4.5,Magnolia,5020,4950,2009,205,597,,47.6413904,-122.4049394
+Single Family Residential,320 NW 137th St,Seattle,WA,98177,2995000,4,5,Broadview,5910,62726,2006,208,507,,47.729359,-122.3617878
+Single Family Residential,14028 Lenora Pl N,Seattle,WA,98133,565000,4,2.25,Haller Lake,2230,2550,1982,210,253,,47.7313459,-122.3430669
+Single Family Residential,2514 Belvidere Ave SW,Seattle,WA,98126,1850000,4,3.5,North Admiral,3253,4180,2020,222,569,,47.5813827,-122.3788492
+Single Family Residential,9302 Beacon Ave S,Seattle,WA,98118,527000,4,2.75,Rainier Beach,1630,7400,1980,222,323,,47.5188669,-122.2763071
+Single Family Residential,7464 S 112th St,Seattle,WA,98178,589700,4,2.5,Lakeridge,2280,6490,1955,226,259,,47.5030305,-122.2383707
+Single Family Residential,525 Lake Washington Blvd,Seattle,WA,98122,810000,4,1.75,Leschi,2480,5644,1941,237,327,,47.6066819,-122.2838797
+Single Family Residential,5155 S Director St,Seattle,WA,98118,497000,4,1.75,Rainier Beach,980,8400,1906,238,507,,47.5217635,-122.2676421
+Single Family Residential,7235 W Green Lake Dr N,Seattle,WA,98103,1599000,4,2.5,Green Lake,3320,6800,1927,268,482,,47.682048,-122.3428667
+Single Family Residential,3218 SW Hinds St,Seattle,WA,98126,1850000,4,3,Admiral,2800,5000,2020,343,661,,47.5728409,-122.3740131
+Single Family Residential,4519 S Henderson St,Seattle,WA,98118,1499950,4,2.5,Rainier Beach,2460,14555,1917,356,610,,47.5230961,-122.2755925
+Single Family Residential,1214 Warren Ave N,Seattle,WA,98109,11000000,4,7.25,Queen Anne,9970,8600,1902,370,1103,,47.6302212,-122.3538488
+Single Family Residential,11122 Seola Beach Dr SW,Seattle,WA,98146,749000,4,2.5,Seattle,2266,8006,1987,34,331,,47.5030586,-122.3707822
+Single Family Residential,Tiberon,Seattle,WA,98126,729950,4,3,High Point,2074,,,,352,,47.5428573,-122.3737971
+Single Family Residential,Walleye,Seattle,WA,98126,699950,4,3,High Point,1897,,,,369,,47.5428573,-122.3737971
+Single Family Residential,10397 Beacon Ave S,Seattle,WA,98178,599995,5,2.75,Allentown,3200,7998,1921,1,187,,47.5071793,-122.2709496
+Single Family Residential,4225 Williams Ave W,Seattle,WA,98199,1250000,5,2.75,Magnolia,2740,4400,1912,13,456,,47.6584172,-122.3924947
+Single Family Residential,10011 42nd Ave SW,Seattle,WA,98146,849500,5,4,Arbor Heights,2780,5267,1942,19,306,,47.513424,-122.3862727
+Single Family Residential,910 W Howe St,Seattle,WA,98119,1069000,5,1.75,Queen Anne,2440,2400,1918,21,438,,47.6361164,-122.3695835
+Single Family Residential,336 29th Ave,Seattle,WA,98122,1699950,6,4.25,Leschi,3229,4950,1904,180,526,,47.6052824,-122.2946387
+Single Family Residential,3508 NE 135th St,Seattle,WA,98125,840000,5,3,Cedar Park,2490,8189,1985,1,337,,47.7266597,-122.2903973
+Single Family Residential,1114 21st Ave E,Seattle,WA,98112,3600000,5,5,Capitol Hill,5820,8640,1912,1,619,,47.6291319,-122.3044027
+Single Family Residential,7226 S Ryan St,Seattle,WA,98178,1349950,5,2.75,Rainier Beach,2700,6000,2018,1,500,,47.509846,-122.2424977
+Single Family Residential,219 Erie Ave,Seattle,WA,98122,1230000,5,2.75,Leschi,3220,5454,1946,1,382,,47.6033955,-122.2860908
+Single Family Residential,8825 17th Ave NE,Seattle,WA,98115,1000000,5,2.75,Maple Leaf,2550,5376,1928,1,392,,47.6928863,-122.3096904
+Single Family Residential,2019 E Louisa St,Seattle,WA,98112,1475000,5,1.75,Montlake,3450,4500,1925,1,428,,47.6422561,-122.3045967
+Single Family Residential,6540 1st Ave NE,Seattle,WA,98115,2198000,6,5.75,Green Lake,3970,5100,2015,5,554,,47.6771034,-122.3280943
+Single Family Residential,6542 Jones Ave NW,Seattle,WA,98117,1729000,5,4.5,Ballard,3115,5000,2020,5,555,,47.677137,-122.386103
+Single Family Residential,819 W Lee St,Seattle,WA,98119,3250000,5,3.5,Queen Anne,4510,7200,1925,5,721,,47.6309486,-122.3687238
+Single Family Residential,9661 42nd Ave SW,Seattle,WA,98136,975000,5,3,Arbor Heights,3250,8189,1953,5,300,,47.5157955,-122.3864789
+Single Family Residential,236 40th Ave E,Seattle,WA,98112,7825000,5,3,Denny Blaine,4170,25552,1923,5,1876,,47.6213508,-122.2811006
+Single Family Residential,816 NW Market St,Seattle,WA,98107,899950,6,2,Ballard,2800,4100,1926,5,321,,47.6688939,-122.3670486
+Single Family Residential,3506 E Schubert Pl,Seattle,WA,98122,1699000,5,3.5,Madrona,3750,6700,1922,5,453,,47.6172734,-122.2879296
+Single Family Residential,3427 36th Ave W,Seattle,WA,98199,1599000,5,3.25,Magnolia,2960,5102,1952,5,540,,47.6513077,-122.4038715
+Single Family Residential,3803 Meridian Ave N,Seattle,WA,98103,2100000,6,3.25,Wallingford,3206,4800,1909,7,655,,47.653283,-122.3341903
+Single Family Residential,4005 NE 57th St,Seattle,WA,98105,1777000,5,3.5,Hawthorne Hills,3590,3520,2015,7,495,,47.6701504,-122.2844499
+Single Family Residential,5218 8th Ave NW,Seattle,WA,98107,1400000,5,3.5,Ballard,3310,4300,1927,7,423,,47.6670351,-122.3658807
+Single Family Residential,10209 10th Ave S,Seattle,WA,98168,585000,5,1.75,Boulevard Park,2140,7700,1961,8,273,,47.5117087,-122.3204339
+Single Family Residential,3822 42nd Ave SW,Seattle,WA,98116,938000,5,1.75,Belvidere,2585,3600,1924,11,363,,47.5694278,-122.3851293
+Single Family Residential,7115 44th Ave S,Seattle,WA,98118,775000,5,2.75,Brighton,1760,6600,1971,11,440,,47.5384349,-122.2783593
+Single Family Residential,9501 Sand Point Way NE,Seattle,WA,98115,925000,5,1.75,Matthews Beach,2260,6199,1957,12,409,,47.6977099,-122.2780124
+Single Family Residential,3245 SW WestBridge Pl Lot 9,Seattle,WA,98126,1325000,5,4,Belvidere,3022,3082,2020,12,438,268,47.5715329,-122.3739112
+Single Family Residential,6719 18th Ave SW,Seattle,WA,98106,745000,5,2.75,West Seattle,2150,14613,1993,12,347,,47.5422791,-122.3574623
+Single Family Residential,5000 SW Stevens St,Seattle,WA,98116,898000,5,3.5,Admiral,2700,4335,1959,13,333,,47.5777528,-122.3956531
+Single Family Residential,10719 47th Ave S,Tukwila,WA,98178,724900,5,3,Tukwila,2840,7199,2003,14,255,,47.5064948,-122.2751644
+Single Family Residential,2318 Belvidere Ave SW,Seattle,WA,98126,4025000,5,3.5,Belvidere,6090,5712,2020,14,661,,47.582848,-122.37916
+Single Family Residential,920 Federal Ave E,Seattle,WA,98102,2698000,5,3.5,Capitol Hill,4440,6300,1914,14,608,,47.6275084,-122.318791
+Single Family Residential,8246 17th Ave NE,Seattle,WA,98115,1700000,5,3.75,Maple Leaf,3401,5100,2019,15,500,,47.6898617,-122.3098057
+Single Family Residential,2905 25th Ave W,Seattle,WA,98199,1625000,5,2.5,Magnolia,3380,6400,1960,15,481,,47.6460816,-122.3892017
+Single Family Residential,418 W Lee St,Seattle,WA,98119,2895000,5,3.5,Queen Anne,5050,4452,1951,16,573,,47.6314968,-122.3627747
+Single Family Residential,300 NW 56th St,Seattle,WA,98107,1049900,5,2,Seattle,1860,3300,1950,18,564,,47.6695905,-122.3610349
+Single Family Residential,6405 22nd Ave NW,Seattle,WA,98107,975000,5,2,Ballard,3030,4650,1900,19,322,,47.6754986,-122.3849736
+Single Family Residential,3517 S Brandon St,Seattle,WA,98118,849850,5,2.75,Hillman City,2410,3919,1995,19,353,,47.553225,-122.288195
+Single Family Residential,4312 36th Ave NE,Seattle,WA,98105,1998000,5,5.5,Laurelhurst,4800,5000,2016,19,416,,47.660264,-122.289044
+Single Family Residential,2843 NW 69 St,Seattle,WA,98117,1200000,6,3.5,Ballard,3283,5000,1915,20,366,,47.6785626,-122.394826
+Single Family Residential,845 NW 116th St,Seattle,WA,98177,1178000,5,2.75,Broadview,3490,14852,1956,20,338,,47.7126138,-122.3682212
+Single Family Residential,2811 22nd Ave W,Seattle,WA,98199,1695000,6,5,Magnolia,4270,6000,1973,20,397,,47.645184,-122.385029
+Single Family Residential,3424 E Denny Way,Seattle,WA,98122,1800000,6,3.5,Denny Blaine,3311,4000,1920,20,544,,47.6185492,-122.2875479
+Single Family Residential,10118 Renton Ave S,Seattle,WA,98178,1125000,5,3,Upper Rainier Beach,2497,6440,1974,21,451,,47.5099962,-122.2584809
+Single Family Residential,6256 31st Ave NE,Seattle,WA,98115,1178000,6,3.25,Bryant,3320,5000,1921,21,355,,47.67564,-122.2939983
+Single Family Residential,1409 E Prospect St,Seattle,WA,98112,6300000,6,6,Capitol Hill,9800,22690,1909,21,643,,47.6281618,-122.3141335
+Single Family Residential,9654 2nd Ave SW,Seattle,WA,98106,819900,5,2.5,White Center,2726,3744,2020,22,301,75,47.5170732,-122.3378933
+Single Family Residential,8422 5th Ave SW,Seattle,WA,98106,700000,5,2.5,West Seattle,2250,7042,2005,23,311,,47.5276108,-122.3413362
+Single Family Residential,1500 Lakeside Ave S,Seattle,WA,98144,5850000,5,4,Mt Baker,6242,43352,1924,25,937,,47.5886208,-122.285719
+Single Family Residential,7026 30th Pl SW,Seattle,WA,98126,925000,5,3.5,High Point,3130,4184,2017,25,296,161,47.5399375,-122.3709786
+Single Family Residential,7021 20th Ave NE,Seattle,WA,98115,1395000,6,3.5,Ravenna,4600,7140,1946,26,303,,47.6801574,-122.3069566
+Single Family Residential,2729 45th Ave SW,Seattle,WA,98116,1100000,5,2.25,Admiral,2905,6250,1910,27,379,,47.5784361,-122.3897006
+Single Family Residential,3112 E Laurelhurst Dr NE,Seattle,WA,98105,8250000,5,3.25,Laurelhurst,6100,19444,1913,27,1352,,47.6507295,-122.2765739
+Single Family Residential,3307 NW 68th St,Seattle,WA,98117,1650000,5,3.5,Sunset Hill,2670,5000,1925,27,618,,47.6780316,-122.4001727
+Single Family Residential,8036 25th Ave NW,Seattle,WA,98117,1899950,5,3.5,Loyal Heights,3250,4850,2020,29,585,,47.6879554,-122.3884096
+Single Family Residential,9412 12th Ave NE,Seattle,WA,98115,1200000,5,3.5,Maple Leaf,3360,5413,1926,31,357,,47.6971061,-122.3145364
+Single Family Residential,4619 S Garden St,Seattle,WA,98118,660000,5,3,Seattle,2800,4000,2005,32,236,,47.5373913,-122.2744486
+Single Family Residential,12555 Dayton Ave N,Seattle,WA,98133,775000,5,2.5,Broadview,1910,6287,1955,32,406,,47.7212382,-122.3532488
+Single Family Residential,3264 57TH Ave SW,Seattle,WA,98116,1700000,5,3,Alki,4650,18500,1959,33,366,,47.5739328,-122.405072
+Single Family Residential,522 N 84th St,Seattle,WA,98103,925000,5,2.5,Greenwood,2800,3300,1914,34,330,,47.6900405,-122.3515593
+Single Family Residential,6921 S Langston Rd,Seattle,WA,98178,750000,5,2.75,Earlington,3880,9843,1974,35,193,,47.4855639,-122.246956
+Single Family Residential,318 Lee St,Seattle,WA,98109,1999000,5,3.75,Queen Anne,2900,6373,1904,35,689,,47.6316526,-122.3504591
+Single Family Residential,815 N 45th St,Seattle,WA,98103,995000,5,1.75,Phinney Ridge,2980,5100,1925,36,334,,47.6613012,-122.347872
+Single Family Residential,1411 S 99th St,Seattle,WA,98108,625000,5,2,South Park,2050,5689,1936,37,305,,47.5145296,-122.3168469
+Single Family Residential,1918 35th Ave W,Seattle,WA,98199,2450000,6,4.5,Magnolia,5170,5242,2009,40,474,,47.6364989,-122.4008213
+Single Family Residential,2004 26th Ave W,Seattle,WA,98199,1675000,5,3.5,Magnolia,3670,6500,1949,40,456,,47.6371843,-122.3901061
+Single Family Residential,3516 NE 43rd St,Seattle,WA,98105,1650000,5,3.5,Laurelhurst,4490,5000,1948,40,367,,47.6600841,-122.2894694
+Single Family Residential,2306 42nd Ave E,Seattle,WA,98112,2445000,5,3.25,Madison Park,3920,4800,2014,40,624,,47.639373,-122.2781008
+Single Family Residential,3850 36th Ave W,Seattle,WA,98199,1975000,5,3.5,Magnolia,3817,6000,2020,41,517,,47.6555871,-122.4030422
+Single Family Residential,2701 45th Ave SW,Seattle,WA,98116,799000,5,1.75,Admiral,2260,5750,1955,42,354,,47.5791716,-122.3896739
+Single Family Residential,1428 E Ward St,Seattle,WA,98112,3150000,5,4.25,Capitol Hill,5890,5610,1910,43,535,,47.627867,-122.3131659
+Single Family Residential,4445 S Frontenac St,Seattle,WA,98118,859950,5,4,Hillman City,2645,5022,2020,44,325,,47.5396004,-122.2761346
+Single Family Residential,7863 56th Pl NE,Seattle,WA,98115,2498000,5,3.25,View Ridge,4027,8626,2020,47,620,,47.686474,-122.2684002
+Single Family Residential,8518 30th Ave NW,Seattle,WA,98117,1595000,5,3.5,North Beach,3100,7496,2020,51,515,,47.6911732,-122.3955042
+Single Family Residential,1817 Madrona Dr,Seattle,WA,98122,2850000,5,5.5,Madrona,4559,5091,2020,56,625,,47.6180146,-122.2851654
+Single Family Residential,948 Harvard Ave E,Seattle,WA,98102,3250000,6,3.5,Capitol Hill,7950,7500,1909,57,409,,47.6282915,-122.3220225
+Single Family Residential,7751 37th Ave NE,Seattle,WA,98115,2099000,5,3.25,Wedgwood,3610,4000,2020,57,581,,47.6863846,-122.2888103
+Single Family Residential,3428 11th Ave W,Seattle,WA,98119,2400000,5,4.5,Queen Anne,3270,6000,2014,59,734,,47.6513984,-122.3711461
+Single Family Residential,6546 25th Ave NW,Seattle,WA,98117,1698000,5,3.75,Loyal Heights,3258,5100,2020,60,521,,47.6772491,-122.3883934
+Single Family Residential,6533 21st Ave NW,Seattle,WA,98117,999000,5,3.75,Loyal Heights,2700,5100,1928,63,370,,47.6769079,-122.3834979
+Single Family Residential,8019 14th Ave NW,Seattle,WA,98117,1589000,5,3.5,Ballard,3710,5080,2016,63,428,,47.6875574,-122.3743858
+Single Family Residential,3827 49th Ave NE,Seattle,WA,98105,2350000,5,3.75,Laurelhurst,3240,6300,1981,64,725,,47.6562935,-122.2749534
+Single Family Residential,1411 SW Myrtle St,Seattle,WA,98106,649950,5,2,Highland Park,1750,8505,1958,65,371,,47.5389011,-122.3532405
+Single Family Residential,5447 21st Ave SW,Seattle,WA,98106,1045000,5,3.75,Delridge,2784,5465,2020,67,375,,47.552371,-122.3604108
+Single Family Residential,4911 NE Laurelcrest Ln,Seattle,WA,98105,11950000,6,6.5,Laurelhurst,9590,34665,2008,67,1246,,47.6531779,-122.2758925
+Single Family Residential,8504 S 125th St,Renton,WA,98057,950000,5,2.75,Bryn Mawr,3640,10713,1963,68,261,,47.491166,-122.225632
+Single Family Residential,12049 20th Ave NE,Seattle,WA,98125,1375950,5,3,Victory Heights,3273,7486,2020,69,420,,47.7170925,-122.3072043
+Single Family Residential,4031 42nd Ave S,Seattle,WA,98118,1100000,5,2.75,Mt Baker,3754,6000,1920,70,293,,47.5669842,-122.2810646
+Single Family Residential,2015 McGilvra Blvd E,Seattle,WA,98112,2275000,5,4.25,Madison Park,3760,4000,2017,71,605,,47.637436,-122.2811284
+Single Family Residential,541 N 105th St,Seattle,WA,98133,749000,5,3,Greenwood,2015,3844,1916,71,372,,47.7048833,-122.3509582
+Single Family Residential,402 W Galer St,Seattle,WA,98119,1515000,5,4,Queen Anne,2849,4440,1905,71,532,,47.6325561,-122.3626801
+Single Family Residential,219 37th Ave E,Seattle,WA,98112,3150000,5,2.75,Denny Blaine,4940,8000,1909,72,638,,47.6207113,-122.2861448
+Single Family Residential,222 NW 95th St,Seattle,WA,98117,1658000,5,3,Greenwood,3590,6900,2019,72,462,,47.6980352,-122.3601582
+Single Family Residential,1511 E Alder St,Seattle,WA,98122,900000,6,1.75,Capitol Hill,4433,3360,1904,76,203,,47.6041739,-122.3122762
+Single Family Residential,5704 S Leo St,Seattle,WA,98178,585000,5,1.75,Rainier Beach,2320,7242,1966,78,252,,47.5026913,-122.2610509
+Single Family Residential,1503 8th Ave W,Seattle,WA,98119,3375000,5,3.75,Queen Anne,4181,3300,1907,79,807,,47.6324802,-122.3680698
+Single Family Residential,3715 41st Ave S,Seattle,WA,98144,2999000,5,3.5,Mt Baker,5034,5150,2020,82,596,,47.57018,-122.282125
+Single Family Residential,7351 33rd Ave NE,Seattle,WA,98115,2150000,5,3.5,Bryant,3654,6996,2020,85,588,,47.6825103,-122.2930835
+Single Family Residential,4731 Thackeray Pl NE,Seattle,WA,98105,2395000,6,5.25,Wallingford,4160,4080,1924,92,576,,47.6640754,-122.3264574
+Single Family Residential,9046 12th Ave NW,Seattle,WA,98117,915000,5,1.75,Crown Hill,2624,8192,1929,96,349,,47.6955351,-122.3710898
+Single Family Residential,7573 Lake City Way NE,Seattle,WA,98115,674995,5,1.75,Maple Leaf,1400,5388,1924,102,482,,47.6850114,-122.3156442
+Single Family Residential,9207 9th Ave NW,Seattle,WA,98117,1579995,6,4.25,Crown Hill,3478,5425,2020,103,454,,47.6962969,-122.368968
+Single Family Residential,1052 E Galer St,Seattle,WA,98102,5980000,5,3.25,Capitol Hill,7834,37249,1911,109,763,,47.6324976,-122.3188011
+Single Family Residential,3403 E Saint Andrews Way,Seattle,WA,98112,1895000,5,3,Broadmoor,4420,7200,1940,133,429,165,47.6295667,-122.2880422
+Single Family Residential,5219 Columbia Dr S,Seattle,WA,98108,1950000,5,3.5,Beacon Hill,4833,8640,2020,138,403,,47.5553106,-122.3052485
+Single Family Residential,9215 9th Ave NW,Seattle,WA,98117,875000,5,2,Crown Hill,2560,8810,1924,153,342,,47.6965609,-122.3689133
+Single Family Residential,1721 33rd Ave,Seattle,WA,98122,1350000,5,3.5,Madrona,4080,4000,1996,167,331,,47.6170875,-122.29058
+Single Family Residential,2113 Aurora Ave N,Seattle,WA,98109,1425000,5,3.75,Westlake,2460,4600,1900,179,579,,47.6379063,-122.3450851
+Single Family Residential,768 Belmont Pl E,Seattle,WA,98102,1550000,6,2,Capitol Hill,3610,4200,1902,218,429,,47.6272825,-122.3240007
+Single Family Residential,1228 23rd Ave E,Seattle,WA,98112,1750000,5,5.25,North Capitol Hill,5456,8448,1908,259,321,,47.6311564,-122.301912
+Single Family Residential,2326 W Viewmont Way W,Seattle,WA,98199,1995000,5,4,Magnolia,3910,5350,1933,260,510,,47.639269,-122.4077813
+Single Family Residential,1560 30th Ave W,Seattle,WA,98199,1925000,5,2.5,Magnolia,3110,5000,1939,267,619,,47.6334627,-122.3954587
+Single Family Residential,421 W Highland Dr,Seattle,WA,98119,7990000,5,5.25,Queen Anne,7900,22500,1905,268,1011,,47.6293293,-122.3627299
+Single Family Residential,7016 55th Ave S,Seattle,WA,98118,5249000,6,3.5,Seward Park,5320,59199,2003,272,987,,47.5387868,-122.2620614
+Single Family Residential,2349 41st Ave E,Seattle,WA,98112,1995000,5,3.25,Madison Park,3300,3600,2002,273,605,,47.6405467,-122.2799693
+Single Family Residential,5770 S Oaklawn Pl,Seattle,WA,98118,3350000,5,3.75,Seward Park,5640,48644,1954,292,594,,47.5438858,-122.2586187
+Single Family Residential,11838 79th Ave S,Seattle,WA,98178,1138888,6,3.75,Lakeridge,3635,4773,2020,413,313,,47.4966819,-122.2338695
+Single Family Residential,12005 30th Ave SW,Burien,WA,98146,2950000,5,5.75,Shorewood,6661,45136,2006,658,443,25,47.49487,-122.37491
